@@ -1,0 +1,38 @@
+
+
+Q1) After executing the "LDR R0" instruction, the value of PC is (00000004) and of R0
+is (00000002)
+
+Q2) After executing the "LDR R1" instruction, the value of PC is (00000008) and of R1
+is (0000000A)
+
+Q3) After executing the "LDR R2" instruction, the value of PC is (0000000C) and of R2
+is (00000001)
+
+
+(For Q4 and Q5, we are asking about the registers involved in the arithmetic,
+not PC/R15)
+
+Q4) The first time the "MUL" instruction is executed, the value of register (R5)
+changes from (00000002) to (00000004)
+
+Q5) The first time the "SUB" instruction is executed, the value of register (R3)
+changes from (0000000A) to (00000009)
+
+
+(For Q6, Q7, and Q8, we are asking about the effect of running the program
+from the beginning until it stops at the SVC instruction, not about the
+effect of just one instruction)
+
+Q6) the "BEQ" instruction (in the loop) is executed (10) times but only performs the branch (1)
+times
+
+Q7) register (R3) counts down from (0000000A) to (00000001)
+
+Q8) which arithemtic operation does the program implement? (write down the equation)
+R5 = R5 * R0
+R3 = R3 - c
+
+Q9) Optimize the two branch instructions - within the loop - by replacing them with one instruction. 
+You must maintain the same functionality of the whole program. Write down the new instruction.
+(BNE loop)

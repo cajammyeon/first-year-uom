@@ -1,0 +1,100 @@
+KMD
+00000000:             ; 
+00000000: EA000017    ;         B main
+00000004:             ; 
+00000004: 4F 70 65 72 ; op1     DEFB    "Operand 1:  \0"
+00000008: 61 6E 64 20 ; 
+0000000C: 31 3A 20 20 ; 
+00000010: 00          ; 
+00000011: 4F 70 65 72 ; op2     DEFB    "Operand 2:  \0"
+00000015: 61 6E 64 20 ; 
+00000019: 32 3A 20 20 ; 
+0000001D: 00          ; 
+0000001E: 50 6C 65 61 ; op3 DEFB  "Please select your operation (+, -, e) :  \0"
+00000022: 73 65 20 73 ; 
+00000026: 65 6C 65 63 ; 
+0000002A: 74 20 79 6F ; 
+0000002E: 75 72 20 6F ; 
+00000032: 70 65 72 61 ; 
+00000036: 74 69 6F 6E ; 
+0000003A: 20 28 2B 2C ; 
+0000003E: 20 2D 2C 20 ; 
+00000042: 65 29 20 3A ; 
+00000046: 20 20 00    ; 
+00000049: 52 65 73 75 ; op4 DEFB  "Result of Operation :  \0"
+0000004D: 6C 74 20 6F ; 
+00000051: 66 20 4F 70 ; 
+00000055: 65 72 61 74 ; 
+00000059: 69 6F 6E 20 ; 
+0000005D: 3A 20 20 00 ; 
+00000061:             ; 
+00000064:             ;   ALIGN
+00000064:             ; 
+00000064:             ; plus   EQU 43
+00000064:             ; minus  EQU 45
+00000064:             ; return EQU 10
+00000064:             ; exit   EQU 101
+00000064:             ; 
+00000064:             ; main
+00000064:             ; 
+00000064: E24F0068    ;   ADR   R0, op1    ; printf("Operand 1: ")
+00000068: EF000003    ;   SVC 3
+0000006C: EF000005    ;   SVC   5                      ; input a digit to R0
+00000070: E1A01000    ;   MOV R1, R0     ; store R0 into R1
+00000074:             ; 
+00000074: E24F006B    ;   ADR   R0, op2    ; printf("Operand 2: ")
+00000078: EF000003    ;   SVC 3
+0000007C: EF000005    ;   SVC   5                      ; input a digit to R0
+00000080: E1A02000    ;   MOV R2, R0     ; store R0 into R2
+00000084:             ; 
+00000084: E24F006E    ;         ADR R0, op3    ; printf("Please select your operation : ")
+00000088: EF000003    ;         SVC 3
+0000008C: EF000001    ;   SVC 1          ; input to R0           
+00000090: E1A03000    ;   MOV R3, R0     ; store R0 into R3
+00000094: EF000000    ;   SVC 0          ; print the operation
+00000098: E24F0096    ;   ADR R0, return ; simulating return key
+0000009C: EF000000    ;   SVC 0
+000000A0:             ; 
+000000A0: E353002B    ;   CMP R3, #plus
+000000A4: 0A000004    ;   BEQ plusfunction
+000000A8: E353002D    ;   CMP R3, #minus
+000000AC: 0A000009    ;   BEQ minusfunction
+000000B0: E3530065    ;   CMP R3, #exit
+000000B4: 0A00000E    ;   BEQ exitfunction
+000000B8: EAFFFFE9    ;   B main
+000000BC:             ; 
+000000BC:             ; plusfunction
+000000BC: E24F007B    ;   ADR R0, op4    ; printf("Result of operation : ")
+000000C0: EF000003    ;   SVC 3
+000000C4: E0810002    ;   ADD R0, R1, R2
+000000C8: EF000004    ;   SVC 4          ; printf(operand 1 + operand 2)
+000000CC: E24F00CA    ;   ADR R0, return ; simulating return key
+000000D0: EF000000    ;   SVC 0
+000000D4: EAFFFFE2    ;   B main
+000000D8:             ; 
+000000D8:             ; minusfunction
+000000D8: E24F0097    ;   ADR R0, op4    ; printf("Result of operation : ")
+000000DC: EF000003    ;   SVC 3
+000000E0: E0410002    ;   SUB R0, R1, R2
+000000E4: EF000004    ;   SVC 4          ; printf(operand 1 - operand 2)
+000000E8: E24F00E6    ;   ADR R0, return ; simulating return key
+000000EC: EF000000    ;   SVC 0
+000000F0: EAFFFFDB    ;   B main
+000000F4:             ; 
+000000F4:             ; exitfunction
+000000F4: EF000002    ;   SVC 2              ; stop the program
+000000F8:             ; 
+
+Symbol Table: Labels
+: op1                               00000004  Local -- ARM
+: op2                               00000011  Local -- ARM
+: op3                               0000001E  Local -- ARM
+: op4                               00000049  Local -- ARM
+: plus                              0000002B  Value
+: minus                             0000002D  Value
+: return                            0000000A  Value
+: exit                              00000065  Value
+: main                              00000064  Local -- ARM
+: plusfunction                      000000BC  Local -- ARM
+: minusfunction                     000000D8  Local -- ARM
+: exitfunction                      000000F4  Local -- ARM

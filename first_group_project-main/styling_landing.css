@@ -1,0 +1,128 @@
+@import url('https://fonts.googleapis.com/css2?family=Pixelify+Sans&display=swap');
+
+body {
+    display: grid;
+    grid-template-columns: [first] 15vw [col1] 400px [col2] calc(100vw - 30vw - 800px) [col3] 400px [col4] 15vw [last];
+    grid-template-rows: [start] 70px [row1] 200px [row2] calc(100vh - 470px) [row3] 200px [end];
+}
+
+/*TOP BAR STYLIING*/
+.main-bar {
+    grid-column-start: first;
+    grid-column-end: last;
+    grid-row-start: start;
+    grid-row-end: row1;
+    top: 0;
+
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: #173753;
+    position: fixed;
+
+    width: 100vw;
+    height: 70px;
+}
+
+.main-bar a {
+    margin-left: 10px;
+    color: #fff;
+    font-family: 'Pixelify Sans', sans-serif;
+    font-size: 30px;
+    text-decoration: none;
+}
+
+.main-bar a:hover {
+    color: #f9b3d1;
+}
+
+.main-bar img {
+    margin-right: 10px;
+}
+
+/*SIDE MENU*/
+.side-bar {
+    justify-self: right;
+    grid-column-start: col4;
+    grid-column-end: last;
+    grid-row-start: row1;
+    grid-row-end: end;
+
+    display: flex;
+    flex-direction: column;
+
+    height: 100%;
+    width: 200px;
+
+    background-color: #D9D9D9;
+    text-align: center;
+}
+
+.side-bar a {
+    left: 0%;
+    color: black;
+    padding: 14px 16px;
+    font-family: 'Pixelify Sans', sans-serif;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+.side-bar a:hover {
+    color: #72A1E5;
+}
+
+.log_out_button {
+    margin-top: auto;
+}
+
+/*RIGHT ARROW*/
+.mouseLeft {
+    justify-self: right;
+    align-self: center;
+
+    grid-column-start: col1;
+    grid-column-end: col2;
+    grid-row-start: row2;
+    grid-row-end: row3;
+}
+    
+
+/*SWIPE BAR*/
+.swipe {
+    justify-self: center;
+    align-self: center;
+
+    grid-column-start: col2;
+    grid-column-end: col3;
+    grid-row-start: row2;
+    grid-row-end: row3;
+
+    display: flex;
+    justify-content: center;
+    background: rgba(23, 55, 83, 0.75);
+    height: 500px;
+    width: 400px;
+    border-radius: 25px;
+}
+
+.swipe h1 {
+    margin-top: auto;
+    font-size: 30px;
+    font-family: 'Pixelify Sans', sans-serif;
+    color: #fff;
+}
+
+.swipe:hover {
+    background: gray;
+}
+
+/*LEFT ARROW*/
+.mouseRight {
+    justify-self: left;
+    align-self: center;
+
+    grid-column-start: col3;
+    grid-column-end: col4;
+    grid-row-start: row2;
+    grid-row-end: row3;
+}

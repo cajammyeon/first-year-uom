@@ -1,0 +1,11 @@
+{
+    "background": "#5C6F68",
+    "foreground": "#BAC9C4",
+    "up": "<KeyPress-Up>",
+    "down": "<KeyPress-Down>",
+    "left": "<KeyPress-Left>",
+    "right": "<KeyPress-Right>",
+    "player": "#A7FFF6",
+    "boss": "<F1>",
+    "cheat": "<F2>"
+}

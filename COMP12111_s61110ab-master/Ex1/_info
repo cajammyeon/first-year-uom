@@ -1,0 +1,118 @@
+m255
+K4
+z2
+Z0 !s99 nomlopt
+R0
+R0
+R0
+!s11f vlog 2022.4 2022.10, Oct 18 2022
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+Z1 d/home/s61110ab/Questa/COMP12111
+T_opt
+!s110 1696596664
+V=fMZ2F?6b[01X6<P2VL3]1
+04 25 4 work Display_Decoder_Testbench fast 0
+Z2 04 4 4 GLIB glbl fast 0
+=1-000ae431a4f1-652002b7-f310c-54a5a
+R0
+Z3 !s12b OEM100
+Z4 !s124 OEM100
+o-quiet +acc -auto_acc_if_foreign -work Ex1 -gblso libssl.so -L unisims -L BoardLib -L Ex1 -L Ex2 -L Ex3 +acc
+Z5 tCvgOpt 0
+n@_opt
+Z6 OL;O;2022.4;75
+R1
+T_opt1
+!s110 1696596939
+V^?CjTmS1BM2c14n_[HC]R1
+04 21 4 work Display_Decoder_Board fast 0
+R2
+=1-000ae431a4f1-652003cb-a6d8c-55f10
+R0
+R3
+R4
+o-quiet +acc -auto_acc_if_foreign -work Ex1 -gblso libssl.so -L BoardLib -L Ex1 -L unisims -L BoardLib -L Ex1 -L Ex2 -L Ex3 +acc
+R5
+n@_opt1
+R6
+R1
+vDisplay_Decoder
+!s110 1700576119
+!i10b 1
+!s100 LYefcAQF4`B<PZ8IklO:M0
+I044=`KSH13F_6FUc85GZY2
+R1
+w1696596586
+8./src/Ex1/Display_Decoder.v
+F./src/Ex1/Display_Decoder.v
+!i122 61
+L0 23 24
+Z7 VDg1SIo80bB@j0V0VzS_@n1
+Z8 OL;L;2022.4;75
+r1
+!s85 0
+31
+Z9 !s108 1700576118.000000
+!s107 ./src/Ex1/Display_Decoder.v|
+!s90 -reportprogress|300|-lint|-cover|bcsxf|./src/Ex1/Display_Decoder.v|
+!s101 -O0
+!i113 0
+Z10 !s102 -cover bcsxf
+Z11 o-O0 -lint -cover bcsxf
+Z12 tShow_source 1 DisableOpt 1 CoverOpt 1 CvgOpt 0
+n@display_@decoder
+vDisplay_Decoder_Board
+Z13 !s110 1700576118
+!i10b 1
+!s100 e6WTQalMg8055b;9zI@0U2
+IH>7ID6dD_FWcPa@fBVGaK3
+R1
+w1696596919
+8./src/Ex1/Display_Decoder_Board.v
+F./src/Ex1/Display_Decoder_Board.v
+!i122 59
+L0 16 93
+R7
+R8
+r1
+!s85 0
+31
+R9
+!s107 ./src/Ex1/Display_Decoder_Board.v|
+!s90 -reportprogress|300|-lint|-cover|bcsxf|./src/Ex1/Display_Decoder_Board.v|
+!s101 -O0
+!i113 0
+R10
+R11
+R12
+n@display_@decoder_@board
+vDisplay_Decoder_Testbench
+R13
+!i10b 1
+!s100 87VFoGjzKISQkY^[FAVBz2
+I4Sfg_=98PDoMjFG]Lmj=J1
+R1
+w1696596628
+8./src/Ex1/Display_Decoder_Testbench.v
+F./src/Ex1/Display_Decoder_Testbench.v
+!i122 60
+L0 13 51
+R7
+R8
+r1
+!s85 0
+31
+R9
+!s107 ./src/Ex1/Display_Decoder_Testbench.v|
+!s90 -reportprogress|300|-lint|-cover|bcsxf|./src/Ex1/Display_Decoder_Testbench.v|
+!s101 -O0
+!i113 0
+R10
+R11
+R12
+n@display_@decoder_@testbench
