@@ -1,6 +1,5 @@
 Just a reminder :
-1. Bakery has not been uploaded to personal
-2. Data has not been uploaded to personal
+1. Data has not been uploaded to personal (wait for Lab 5 submission)
 
 Reminder to download as zip, extract in the first-year-uom repo and push
 
