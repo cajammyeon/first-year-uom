@@ -1,6 +1,12 @@
-Just a reminder :
-1. Data has not been uploaded to personal (wait for Lab 5 submission)
+This repository includes all my work throughout my exciting first year in University of Manchester !
 
-Reminder to download as zip, extract in the first-year-uom repo and push
+Languages included :
+1. Programming 1 - Python
+2. Programming 2 - Java
+3. Engineering - Verilog (CPU design)
+4. Architecture - ARM Assembly
+5. Data Science - Python (Basic visualisation and hypothesis testing, Naive Bayes Classification)
+6. Group Project - PHP, HTML, Javascript, CSS, Python (Web development)
+7. Operating System - Python (Caching algorithm)
 
-Use as portfolio !
+Note that this does not include all modules done in the first year, as some modules are not related to programming.
