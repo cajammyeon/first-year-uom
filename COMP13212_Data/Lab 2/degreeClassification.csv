@@ -1,0 +1,1398 @@
+﻿Title,"Percentage of first degree qualifiers obtaining each classification by sex, mode of study and country of HE provider",,,,,
+Location,UK,,,,,
+Academic years,2013/14 to 2017/18,,,,,
+Data source,HESA,,,,,
+Data source link,https://www.hesa.ac.uk/data-and-analysis/sb252/figure-17,,,,,
+Data file canonical link,https://www.hesa.ac.uk/data-and-analysis/sb252/figure-17.csv,,,,,
+Licence,Creative Commons Attribution 4.0 International Licence,,,,,
+Code page,Unicode UTF-8 ,,,,,
+Disclaimer,Please note that this data includes rounded totals.  Caution must be taken when importing into a pivot table so as not to double count. ,,,,,
+2013/14 total,395605,,,,,
+2014/15 total,370905,,,,,
+2015/16 total,376330,,,,,
+2016/17 total,391875,,,,,
+2017/18 total,396940,,,,,
+Last updated,Jan-19,,,,,
+,,,,,,
+,,,,,,
+Academic Year,Mode of study,Sex,Country of HE provider,Classification of First Degree,Number,Percentage
+2013/14,All,All,All,First,79410,20%
+2013/14,All,All,All,Lower second,95965,24%
+2013/14,All,All,All,Third/Pass,21905,6%
+2013/14,All,All,All,Total classified,395605,
+2013/14,All,All,All,Upper second,198320,50%
+2013/14,All,All,England,First,68590,20%
+2013/14,All,All,England,Lower second,81665,24%
+2013/14,All,All,England,Third/Pass,19385,6%
+2013/14,All,All,England,Total classified,339170,
+2013/14,All,All,England,Upper second,169530,50%
+2013/14,All,All,Northern Ireland,First,1590,19%
+2013/14,All,All,Northern Ireland,Lower second,2215,26%
+2013/14,All,All,Northern Ireland,Third/Pass,285,3%
+2013/14,All,All,Northern Ireland,Total classified,8560,
+2013/14,All,All,Northern Ireland,Upper second,4470,52%
+2013/14,All,All,Scotland,First,5125,21%
+2013/14,All,All,Scotland,Lower second,5505,22%
+2013/14,All,All,Scotland,Third/Pass,875,4%
+2013/14,All,All,Scotland,Total classified,24880,
+2013/14,All,All,Scotland,Upper second,13380,54%
+2013/14,All,All,Wales,First,4110,18%
+2013/14,All,All,Wales,Lower second,6585,29%
+2013/14,All,All,Wales,Third/Pass,1360,6%
+2013/14,All,All,Wales,Total classified,22995,
+2013/14,All,All,Wales,Upper second,10945,48%
+2013/14,All,Female,All,First,44530,20%
+2013/14,All,Female,All,Lower second,50520,23%
+2013/14,All,Female,All,Third/Pass,10605,5%
+2013/14,All,Female,All,Total classified,222230,
+2013/14,All,Female,All,Upper second,116570,52%
+2013/14,All,Female,England,First,38495,20%
+2013/14,All,Female,England,Lower second,43150,23%
+2013/14,All,Female,England,Third/Pass,9480,5%
+2013/14,All,Female,England,Total classified,190835,
+2013/14,All,Female,England,Upper second,99715,52%
+2013/14,All,Female,Northern Ireland,First,920,18%
+2013/14,All,Female,Northern Ireland,Lower second,1220,24%
+2013/14,All,Female,Northern Ireland,Third/Pass,140,3%
+2013/14,All,Female,Northern Ireland,Total classified,4990,
+2013/14,All,Female,Northern Ireland,Upper second,2710,54%
+2013/14,All,Female,Scotland,First,2830,20%
+2013/14,All,Female,Scotland,Lower second,2850,20%
+2013/14,All,Female,Scotland,Third/Pass,395,3%
+2013/14,All,Female,Scotland,Total classified,13980,
+2013/14,All,Female,Scotland,Upper second,7905,57%
+2013/14,All,Female,Wales,First,2290,18%
+2013/14,All,Female,Wales,Lower second,3305,27%
+2013/14,All,Female,Wales,Third/Pass,590,5%
+2013/14,All,Female,Wales,Total classified,12425,
+2013/14,All,Female,Wales,Upper second,6245,50%
+2013/14,All,Male,All,First,34870,20%
+2013/14,All,Male,All,Lower second,45440,26%
+2013/14,All,Male,All,Third/Pass,11295,7%
+2013/14,All,Male,All,Total classified,173345,
+2013/14,All,Male,All,Upper second,81740,47%
+2013/14,All,Male,England,First,30090,20%
+2013/14,All,Male,England,Lower second,38515,26%
+2013/14,All,Male,England,Third/Pass,9905,7%
+2013/14,All,Male,England,Total classified,148315,
+2013/14,All,Male,England,Upper second,69805,47%
+2013/14,All,Male,Northern Ireland,First,670,19%
+2013/14,All,Male,Northern Ireland,Lower second,995,28%
+2013/14,All,Male,Northern Ireland,Third/Pass,145,4%
+2013/14,All,Male,Northern Ireland,Total classified,3570,
+2013/14,All,Male,Northern Ireland,Upper second,1760,49%
+2013/14,All,Male,Scotland,First,2290,21%
+2013/14,All,Male,Scotland,Lower second,2650,24%
+2013/14,All,Male,Scotland,Third/Pass,480,4%
+2013/14,All,Male,Scotland,Total classified,10895,
+2013/14,All,Male,Scotland,Upper second,5470,50%
+2013/14,All,Male,Wales,First,1820,17%
+2013/14,All,Male,Wales,Lower second,3275,31%
+2013/14,All,Male,Wales,Third/Pass,770,7%
+2013/14,All,Male,Wales,Total classified,10565,
+2013/14,All,Male,Wales,Upper second,4700,44%
+2013/14,All,Other,All,First,10,31%
+2013/14,All,Other,All,Lower second,5,21%
+2013/14,All,Other,All,Third/Pass,0,3%
+2013/14,All,Other,All,Total classified,30,
+2013/14,All,Other,All,Upper second,15,45%
+2013/14,All,Other,England,First,5,..
+2013/14,All,Other,England,Lower second,5,..
+2013/14,All,Other,England,Third/Pass,0,..
+2013/14,All,Other,England,Total classified,20,
+2013/14,All,Other,England,Upper second,10,..
+2013/14,All,Other,Scotland,First,0,..
+2013/14,All,Other,Scotland,Lower second,0,..
+2013/14,All,Other,Scotland,Third/Pass,0,..
+2013/14,All,Other,Scotland,Total classified,5,
+2013/14,All,Other,Scotland,Upper second,5,..
+2013/14,All,Other,Wales,First,0,..
+2013/14,All,Other,Wales,Lower second,5,..
+2013/14,All,Other,Wales,Third/Pass,0,..
+2013/14,All,Other,Wales,Total classified,5,
+2013/14,All,Other,Wales,Upper second,0,..
+2013/14,Full-time,All,All,First,73810,20%
+2013/14,Full-time,All,All,Lower second,85760,24%
+2013/14,Full-time,All,All,Third/Pass,16670,5%
+2013/14,Full-time,All,All,Total classified,362370,
+2013/14,Full-time,All,All,Upper second,186125,51%
+2013/14,Full-time,All,England,First,63590,21%
+2013/14,Full-time,All,England,Lower second,72465,23%
+2013/14,Full-time,All,England,Third/Pass,14505,5%
+2013/14,Full-time,All,England,Total classified,309250,
+2013/14,Full-time,All,England,Upper second,158690,51%
+2013/14,Full-time,All,Northern Ireland,First,1450,19%
+2013/14,Full-time,All,Northern Ireland,Lower second,1930,25%
+2013/14,Full-time,All,Northern Ireland,Third/Pass,225,3%
+2013/14,Full-time,All,Northern Ireland,Total classified,7690,
+2013/14,Full-time,All,Northern Ireland,Upper second,4085,53%
+2013/14,Full-time,All,Scotland,First,4915,21%
+2013/14,Full-time,All,Scotland,Lower second,5165,22%
+2013/14,Full-time,All,Scotland,Third/Pass,730,3%
+2013/14,Full-time,All,Scotland,Total classified,23735,
+2013/14,Full-time,All,Scotland,Upper second,12925,54%
+2013/14,Full-time,All,Wales,First,3855,18%
+2013/14,Full-time,All,Wales,Lower second,6200,29%
+2013/14,Full-time,All,Wales,Third/Pass,1215,6%
+2013/14,Full-time,All,Wales,Total classified,21690,
+2013/14,Full-time,All,Wales,Upper second,10420,48%
+2013/14,Full-time,Female,All,First,41410,20%
+2013/14,Full-time,Female,All,Lower second,44470,22%
+2013/14,Full-time,Female,All,Third/Pass,7535,4%
+2013/14,Full-time,Female,All,Total classified,202555,
+2013/14,Full-time,Female,All,Upper second,109145,54%
+2013/14,Full-time,Female,England,First,35690,21%
+2013/14,Full-time,Female,England,Lower second,37680,22%
+2013/14,Full-time,Female,England,Third/Pass,6585,4%
+2013/14,Full-time,Female,England,Total classified,173005,
+2013/14,Full-time,Female,England,Upper second,93045,54%
+2013/14,Full-time,Female,Northern Ireland,First,845,19%
+2013/14,Full-time,Female,Northern Ireland,Lower second,1050,23%
+2013/14,Full-time,Female,Northern Ireland,Third/Pass,110,2%
+2013/14,Full-time,Female,Northern Ireland,Total classified,4505,
+2013/14,Full-time,Female,Northern Ireland,Upper second,2500,56%
+2013/14,Full-time,Female,Scotland,First,2715,20%
+2013/14,Full-time,Female,Scotland,Lower second,2665,20%
+2013/14,Full-time,Female,Scotland,Third/Pass,310,2%
+2013/14,Full-time,Female,Scotland,Total classified,13360,
+2013/14,Full-time,Female,Scotland,Upper second,7665,57%
+2013/14,Full-time,Female,Wales,First,2155,18%
+2013/14,Full-time,Female,Wales,Lower second,3075,26%
+2013/14,Full-time,Female,Wales,Third/Pass,530,5%
+2013/14,Full-time,Female,Wales,Total classified,11690,
+2013/14,Full-time,Female,Wales,Upper second,5930,51%
+2013/14,Full-time,Male,All,First,32390,20%
+2013/14,Full-time,Male,All,Lower second,41285,26%
+2013/14,Full-time,Male,All,Third/Pass,9135,6%
+2013/14,Full-time,Male,All,Total classified,159785,
+2013/14,Full-time,Male,All,Upper second,76970,48%
+2013/14,Full-time,Male,England,First,27890,20%
+2013/14,Full-time,Male,England,Lower second,34780,26%
+2013/14,Full-time,Male,England,Third/Pass,7920,6%
+2013/14,Full-time,Male,England,Total classified,136225,
+2013/14,Full-time,Male,England,Upper second,65635,48%
+2013/14,Full-time,Male,Northern Ireland,First,605,19%
+2013/14,Full-time,Male,Northern Ireland,Lower second,880,28%
+2013/14,Full-time,Male,Northern Ireland,Third/Pass,115,4%
+2013/14,Full-time,Male,Northern Ireland,Total classified,3185,
+2013/14,Full-time,Male,Northern Ireland,Upper second,1585,50%
+2013/14,Full-time,Male,Scotland,First,2200,21%
+2013/14,Full-time,Male,Scotland,Lower second,2500,24%
+2013/14,Full-time,Male,Scotland,Third/Pass,420,4%
+2013/14,Full-time,Male,Scotland,Total classified,10375,
+2013/14,Full-time,Male,Scotland,Upper second,5260,51%
+2013/14,Full-time,Male,Wales,First,1700,17%
+2013/14,Full-time,Male,Wales,Lower second,3120,31%
+2013/14,Full-time,Male,Wales,Third/Pass,685,7%
+2013/14,Full-time,Male,Wales,Total classified,9995,
+2013/14,Full-time,Male,Wales,Upper second,4490,45%
+2013/14,Full-time,Other,All,First,10,32%
+2013/14,Full-time,Other,All,Lower second,5,21%
+2013/14,Full-time,Other,All,Third/Pass,0,4%
+2013/14,Full-time,Other,All,Total classified,30,
+2013/14,Full-time,Other,All,Upper second,10,43%
+2013/14,Full-time,Other,England,First,5,..
+2013/14,Full-time,Other,England,Lower second,5,..
+2013/14,Full-time,Other,England,Third/Pass,0,..
+2013/14,Full-time,Other,England,Total classified,20,
+2013/14,Full-time,Other,England,Upper second,10,..
+2013/14,Full-time,Other,Scotland,First,0,..
+2013/14,Full-time,Other,Scotland,Lower second,0,..
+2013/14,Full-time,Other,Scotland,Third/Pass,0,..
+2013/14,Full-time,Other,Scotland,Total classified,5,
+2013/14,Full-time,Other,Scotland,Upper second,5,..
+2013/14,Full-time,Other,Wales,First,0,..
+2013/14,Full-time,Other,Wales,Lower second,5,..
+2013/14,Full-time,Other,Wales,Third/Pass,0,..
+2013/14,Full-time,Other,Wales,Total classified,5,
+2013/14,Full-time,Other,Wales,Upper second,0,..
+2013/14,Part-time,All,All,First,5600,17%
+2013/14,Part-time,All,All,Lower second,10205,31%
+2013/14,Part-time,All,All,Third/Pass,5230,16%
+2013/14,Part-time,All,All,Total classified,33235,
+2013/14,Part-time,All,All,Upper second,12195,37%
+2013/14,Part-time,All,England,First,5005,17%
+2013/14,Part-time,All,England,Lower second,9200,31%
+2013/14,Part-time,All,England,Third/Pass,4880,16%
+2013/14,Part-time,All,England,Total classified,29920,
+2013/14,Part-time,All,England,Upper second,10835,36%
+2013/14,Part-time,All,Northern Ireland,First,140,16%
+2013/14,Part-time,All,Northern Ireland,Lower second,285,32%
+2013/14,Part-time,All,Northern Ireland,Third/Pass,65,7%
+2013/14,Part-time,All,Northern Ireland,Total classified,870,
+2013/14,Part-time,All,Northern Ireland,Upper second,385,44%
+2013/14,Part-time,All,Scotland,First,205,18%
+2013/14,Part-time,All,Scotland,Lower second,340,30%
+2013/14,Part-time,All,Scotland,Third/Pass,145,13%
+2013/14,Part-time,All,Scotland,Total classified,1145,
+2013/14,Part-time,All,Scotland,Upper second,450,40%
+2013/14,Part-time,All,Wales,First,250,19%
+2013/14,Part-time,All,Wales,Lower second,385,30%
+2013/14,Part-time,All,Wales,Third/Pass,145,11%
+2013/14,Part-time,All,Wales,Total classified,1305,
+2013/14,Part-time,All,Wales,Upper second,525,40%
+2013/14,Part-time,Female,All,First,3120,16%
+2013/14,Part-time,Female,All,Lower second,6050,31%
+2013/14,Part-time,Female,All,Third/Pass,3070,16%
+2013/14,Part-time,Female,All,Total classified,19670,
+2013/14,Part-time,Female,All,Upper second,7425,38%
+2013/14,Part-time,Female,England,First,2800,16%
+2013/14,Part-time,Female,England,Lower second,5465,31%
+2013/14,Part-time,Female,England,Third/Pass,2890,16%
+2013/14,Part-time,Female,England,Total classified,17830,
+2013/14,Part-time,Female,England,Upper second,6670,37%
+2013/14,Part-time,Female,Northern Ireland,First,75,15%
+2013/14,Part-time,Female,Northern Ireland,Lower second,165,34%
+2013/14,Part-time,Female,Northern Ireland,Third/Pass,35,7%
+2013/14,Part-time,Female,Northern Ireland,Total classified,485,
+2013/14,Part-time,Female,Northern Ireland,Upper second,210,43%
+2013/14,Part-time,Female,Scotland,First,115,18%
+2013/14,Part-time,Female,Scotland,Lower second,185,30%
+2013/14,Part-time,Female,Scotland,Third/Pass,85,14%
+2013/14,Part-time,Female,Scotland,Total classified,625,
+2013/14,Part-time,Female,Scotland,Upper second,240,38%
+2013/14,Part-time,Female,Wales,First,130,18%
+2013/14,Part-time,Female,Wales,Lower second,230,31%
+2013/14,Part-time,Female,Wales,Third/Pass,60,8%
+2013/14,Part-time,Female,Wales,Total classified,735,
+2013/14,Part-time,Female,Wales,Upper second,310,43%
+2013/14,Part-time,Male,All,First,2480,18%
+2013/14,Part-time,Male,All,Lower second,4155,31%
+2013/14,Part-time,Male,All,Third/Pass,2160,16%
+2013/14,Part-time,Male,All,Total classified,13565,
+2013/14,Part-time,Male,All,Upper second,4770,35%
+2013/14,Part-time,Male,England,First,2200,18%
+2013/14,Part-time,Male,England,Lower second,3730,31%
+2013/14,Part-time,Male,England,Third/Pass,1985,16%
+2013/14,Part-time,Male,England,Total classified,12090,
+2013/14,Part-time,Male,England,Upper second,4170,34%
+2013/14,Part-time,Male,Northern Ireland,First,65,17%
+2013/14,Part-time,Male,Northern Ireland,Lower second,115,30%
+2013/14,Part-time,Male,Northern Ireland,Third/Pass,30,8%
+2013/14,Part-time,Male,Northern Ireland,Total classified,385,
+2013/14,Part-time,Male,Northern Ireland,Upper second,175,45%
+2013/14,Part-time,Male,Scotland,First,95,18%
+2013/14,Part-time,Male,Scotland,Lower second,150,29%
+2013/14,Part-time,Male,Scotland,Third/Pass,60,12%
+2013/14,Part-time,Male,Scotland,Total classified,520,
+2013/14,Part-time,Male,Scotland,Upper second,215,41%
+2013/14,Part-time,Male,Wales,First,120,21%
+2013/14,Part-time,Male,Wales,Lower second,155,27%
+2013/14,Part-time,Male,Wales,Third/Pass,85,15%
+2013/14,Part-time,Male,Wales,Total classified,570,
+2013/14,Part-time,Male,Wales,Upper second,210,37%
+2013/14,Part-time,Other,All,First,0,..
+2013/14,Part-time,Other,All,Lower second,0,..
+2013/14,Part-time,Other,All,Third/Pass,0,..
+2013/14,Part-time,Other,All,Total classified,0,
+2013/14,Part-time,Other,All,Upper second,0,..
+2013/14,Part-time,Other,England,First,0,..
+2013/14,Part-time,Other,England,Lower second,0,..
+2013/14,Part-time,Other,England,Third/Pass,0,..
+2013/14,Part-time,Other,England,Total classified,0,
+2013/14,Part-time,Other,England,Upper second,0,..
+2014/15,All,All,All,First,81640,22%
+2014/15,All,All,All,Lower second,85250,23%
+2014/15,All,All,All,Third/Pass,20340,5%
+2014/15,All,All,All,Total classified,370905,
+2014/15,All,All,All,Upper second,183680,50%
+2014/15,All,All,England,First,70000,22%
+2014/15,All,All,England,Lower second,72250,23%
+2014/15,All,All,England,Third/Pass,17720,6%
+2014/15,All,All,England,Total classified,315375,
+2014/15,All,All,England,Upper second,155405,49%
+2014/15,All,All,Northern Ireland,First,1765,20%
+2014/15,All,All,Northern Ireland,Lower second,2175,24%
+2014/15,All,All,Northern Ireland,Third/Pass,405,5%
+2014/15,All,All,Northern Ireland,Total classified,8970,
+2014/15,All,All,Northern Ireland,Upper second,4620,52%
+2014/15,All,All,Scotland,First,5715,22%
+2014/15,All,All,Scotland,Lower second,5120,20%
+2014/15,All,All,Scotland,Third/Pass,950,4%
+2014/15,All,All,Scotland,Total classified,25465,
+2014/15,All,All,Scotland,Upper second,13680,54%
+2014/15,All,All,Wales,First,4155,20%
+2014/15,All,All,Wales,Lower second,5710,27%
+2014/15,All,All,Wales,Third/Pass,1260,6%
+2014/15,All,All,Wales,Total classified,21095,
+2014/15,All,All,Wales,Upper second,9975,47%
+2014/15,All,Female,All,First,45830,22%
+2014/15,All,Female,All,Lower second,45845,22%
+2014/15,All,Female,All,Third/Pass,10105,5%
+2014/15,All,Female,All,Total classified,210840,
+2014/15,All,Female,All,Upper second,109060,52%
+2014/15,All,Female,England,First,39185,22%
+2014/15,All,Female,England,Lower second,39010,22%
+2014/15,All,Female,England,Third/Pass,8915,5%
+2014/15,All,Female,England,Total classified,179450,
+2014/15,All,Female,England,Upper second,92345,51%
+2014/15,All,Female,Northern Ireland,First,1015,20%
+2014/15,All,Female,Northern Ireland,Lower second,1150,23%
+2014/15,All,Female,Northern Ireland,Third/Pass,170,3%
+2014/15,All,Female,Northern Ireland,Total classified,5100,
+2014/15,All,Female,Northern Ireland,Upper second,2760,54%
+2014/15,All,Female,Scotland,First,3215,22%
+2014/15,All,Female,Scotland,Lower second,2725,19%
+2014/15,All,Female,Scotland,Third/Pass,440,3%
+2014/15,All,Female,Scotland,Total classified,14555,
+2014/15,All,Female,Scotland,Upper second,8175,56%
+2014/15,All,Female,Wales,First,2410,21%
+2014/15,All,Female,Wales,Lower second,2960,25%
+2014/15,All,Female,Wales,Third/Pass,580,5%
+2014/15,All,Female,Wales,Total classified,11735,
+2014/15,All,Female,Wales,Upper second,5780,49%
+2014/15,All,Male,All,First,35795,22%
+2014/15,All,Male,All,Lower second,39400,25%
+2014/15,All,Male,All,Third/Pass,10230,6%
+2014/15,All,Male,All,Total classified,160020,
+2014/15,All,Male,All,Upper second,74595,47%
+2014/15,All,Male,England,First,30805,23%
+2014/15,All,Male,England,Lower second,33235,24%
+2014/15,All,Male,England,Third/Pass,8805,6%
+2014/15,All,Male,England,Total classified,135890,
+2014/15,All,Male,England,Upper second,63045,46%
+2014/15,All,Male,Northern Ireland,First,750,19%
+2014/15,All,Male,Northern Ireland,Lower second,1025,26%
+2014/15,All,Male,Northern Ireland,Third/Pass,235,6%
+2014/15,All,Male,Northern Ireland,Total classified,3870,
+2014/15,All,Male,Northern Ireland,Upper second,1860,48%
+2014/15,All,Male,Scotland,First,2500,23%
+2014/15,All,Male,Scotland,Lower second,2395,22%
+2014/15,All,Male,Scotland,Third/Pass,510,5%
+2014/15,All,Male,Scotland,Total classified,10900,
+2014/15,All,Male,Scotland,Upper second,5500,50%
+2014/15,All,Male,Wales,First,1745,19%
+2014/15,All,Male,Wales,Lower second,2745,29%
+2014/15,All,Male,Wales,Third/Pass,680,7%
+2014/15,All,Male,Wales,Total classified,9360,
+2014/15,All,Male,Wales,Upper second,4190,45%
+2014/15,All,Other,All,First,15,28%
+2014/15,All,Other,All,Lower second,5,15%
+2014/15,All,Other,All,Third/Pass,0,4%
+2014/15,All,Other,All,Total classified,45,
+2014/15,All,Other,All,Upper second,25,53%
+2014/15,All,Other,England,First,10,32%
+2014/15,All,Other,England,Lower second,5,19%
+2014/15,All,Other,England,Third/Pass,0,5%
+2014/15,All,Other,England,Total classified,35,
+2014/15,All,Other,England,Upper second,15,43%
+2014/15,All,Other,Scotland,First,0,..
+2014/15,All,Other,Scotland,Lower second,0,..
+2014/15,All,Other,Scotland,Third/Pass,0,..
+2014/15,All,Other,Scotland,Total classified,10,
+2014/15,All,Other,Scotland,Upper second,5,..
+2014/15,All,Other,Wales,First,0,..
+2014/15,All,Other,Wales,Lower second,0,..
+2014/15,All,Other,Wales,Third/Pass,0,..
+2014/15,All,Other,Wales,Total classified,0,
+2014/15,All,Other,Wales,Upper second,0,..
+2014/15,Full-time,All,All,First,76030,22%
+2014/15,Full-time,All,All,Lower second,75350,22%
+2014/15,Full-time,All,All,Third/Pass,15080,4%
+2014/15,Full-time,All,All,Total classified,338170,
+2014/15,Full-time,All,All,Upper second,171705,51%
+2014/15,Full-time,All,England,First,64965,23%
+2014/15,Full-time,All,England,Lower second,63345,22%
+2014/15,Full-time,All,England,Third/Pass,12890,5%
+2014/15,Full-time,All,England,Total classified,285925,
+2014/15,Full-time,All,England,Upper second,144720,51%
+2014/15,Full-time,All,Northern Ireland,First,1645,20%
+2014/15,Full-time,All,Northern Ireland,Lower second,1865,23%
+2014/15,Full-time,All,Northern Ireland,Third/Pass,325,4%
+2014/15,Full-time,All,Northern Ireland,Total classified,8070,
+2014/15,Full-time,All,Northern Ireland,Upper second,4230,52%
+2014/15,Full-time,All,Scotland,First,5520,23%
+2014/15,Full-time,All,Scotland,Lower second,4790,20%
+2014/15,Full-time,All,Scotland,Third/Pass,795,3%
+2014/15,Full-time,All,Scotland,Total classified,24365,
+2014/15,Full-time,All,Scotland,Upper second,13260,54%
+2014/15,Full-time,All,Wales,First,3900,20%
+2014/15,Full-time,All,Wales,Lower second,5350,27%
+2014/15,Full-time,All,Wales,Third/Pass,1070,5%
+2014/15,Full-time,All,Wales,Total classified,19810,
+2014/15,Full-time,All,Wales,Upper second,9495,48%
+2014/15,Full-time,Female,All,First,42780,22%
+2014/15,Full-time,Female,All,Lower second,39835,21%
+2014/15,Full-time,Female,All,Third/Pass,7060,4%
+2014/15,Full-time,Female,All,Total classified,191460,
+2014/15,Full-time,Female,All,Upper second,101780,53%
+2014/15,Full-time,Female,England,First,36445,23%
+2014/15,Full-time,Female,England,Lower second,33580,21%
+2014/15,Full-time,Female,England,Third/Pass,6100,4%
+2014/15,Full-time,Female,England,Total classified,161925,
+2014/15,Full-time,Female,England,Upper second,85800,53%
+2014/15,Full-time,Female,Northern Ireland,First,955,21%
+2014/15,Full-time,Female,Northern Ireland,Lower second,975,21%
+2014/15,Full-time,Female,Northern Ireland,Third/Pass,135,3%
+2014/15,Full-time,Female,Northern Ireland,Total classified,4600,
+2014/15,Full-time,Female,Northern Ireland,Upper second,2535,55%
+2014/15,Full-time,Female,Scotland,First,3110,22%
+2014/15,Full-time,Female,Scotland,Lower second,2550,18%
+2014/15,Full-time,Female,Scotland,Third/Pass,350,3%
+2014/15,Full-time,Female,Scotland,Total classified,13955,
+2014/15,Full-time,Female,Scotland,Upper second,7940,57%
+2014/15,Full-time,Female,Wales,First,2270,21%
+2014/15,Full-time,Female,Wales,Lower second,2735,25%
+2014/15,Full-time,Female,Wales,Third/Pass,475,4%
+2014/15,Full-time,Female,Wales,Total classified,10980,
+2014/15,Full-time,Female,Wales,Upper second,5510,50%
+2014/15,Full-time,Male,All,First,33240,23%
+2014/15,Full-time,Male,All,Lower second,35505,24%
+2014/15,Full-time,Male,All,Third/Pass,8020,5%
+2014/15,Full-time,Male,All,Total classified,146665,
+2014/15,Full-time,Male,All,Upper second,69900,48%
+2014/15,Full-time,Male,England,First,28510,23%
+2014/15,Full-time,Male,England,Lower second,29760,24%
+2014/15,Full-time,Male,England,Third/Pass,6790,5%
+2014/15,Full-time,Male,England,Total classified,123965,
+2014/15,Full-time,Male,England,Upper second,58905,48%
+2014/15,Full-time,Male,Northern Ireland,First,690,20%
+2014/15,Full-time,Male,Northern Ireland,Lower second,890,26%
+2014/15,Full-time,Male,Northern Ireland,Third/Pass,190,6%
+2014/15,Full-time,Male,Northern Ireland,Total classified,3470,
+2014/15,Full-time,Male,Northern Ireland,Upper second,1700,49%
+2014/15,Full-time,Male,Scotland,First,2410,23%
+2014/15,Full-time,Male,Scotland,Lower second,2240,22%
+2014/15,Full-time,Male,Scotland,Third/Pass,440,4%
+2014/15,Full-time,Male,Scotland,Total classified,10405,
+2014/15,Full-time,Male,Scotland,Upper second,5315,51%
+2014/15,Full-time,Male,Wales,First,1630,18%
+2014/15,Full-time,Male,Wales,Lower second,2615,30%
+2014/15,Full-time,Male,Wales,Third/Pass,600,7%
+2014/15,Full-time,Male,Wales,Total classified,8825,
+2014/15,Full-time,Male,Wales,Upper second,3985,45%
+2014/15,Full-time,Other,All,First,15,28%
+2014/15,Full-time,Other,All,Lower second,5,15%
+2014/15,Full-time,Other,All,Third/Pass,0,2%
+2014/15,Full-time,Other,All,Total classified,45,
+2014/15,Full-time,Other,All,Upper second,25,54%
+2014/15,Full-time,Other,England,First,10,33%
+2014/15,Full-time,Other,England,Lower second,5,19%
+2014/15,Full-time,Other,England,Third/Pass,0,3%
+2014/15,Full-time,Other,England,Total classified,35,
+2014/15,Full-time,Other,England,Upper second,15,44%
+2014/15,Full-time,Other,Scotland,First,0,..
+2014/15,Full-time,Other,Scotland,Lower second,0,..
+2014/15,Full-time,Other,Scotland,Third/Pass,0,..
+2014/15,Full-time,Other,Scotland,Total classified,10,
+2014/15,Full-time,Other,Scotland,Upper second,5,..
+2014/15,Full-time,Other,Wales,First,0,..
+2014/15,Full-time,Other,Wales,Lower second,0,..
+2014/15,Full-time,Other,Wales,Third/Pass,0,..
+2014/15,Full-time,Other,Wales,Total classified,0,
+2014/15,Full-time,Other,Wales,Upper second,0,..
+2014/15,Part-time,All,All,First,5605,17%
+2014/15,Part-time,All,All,Lower second,9900,30%
+2014/15,Part-time,All,All,Third/Pass,5255,16%
+2014/15,Part-time,All,All,Total classified,32735,
+2014/15,Part-time,All,All,Upper second,11975,37%
+2014/15,Part-time,All,England,First,5035,17%
+2014/15,Part-time,All,England,Lower second,8905,30%
+2014/15,Part-time,All,England,Third/Pass,4830,16%
+2014/15,Part-time,All,England,Total classified,29455,
+2014/15,Part-time,All,England,Upper second,10685,36%
+2014/15,Part-time,All,Northern Ireland,First,120,13%
+2014/15,Part-time,All,Northern Ireland,Lower second,310,34%
+2014/15,Part-time,All,Northern Ireland,Third/Pass,80,9%
+2014/15,Part-time,All,Northern Ireland,Total classified,900,
+2014/15,Part-time,All,Northern Ireland,Upper second,390,43%
+2014/15,Part-time,All,Scotland,First,195,18%
+2014/15,Part-time,All,Scotland,Lower second,325,30%
+2014/15,Part-time,All,Scotland,Third/Pass,160,14%
+2014/15,Part-time,All,Scotland,Total classified,1100,
+2014/15,Part-time,All,Scotland,Upper second,420,38%
+2014/15,Part-time,All,Wales,First,255,20%
+2014/15,Part-time,All,Wales,Lower second,360,28%
+2014/15,Part-time,All,Wales,Third/Pass,190,15%
+2014/15,Part-time,All,Wales,Total classified,1285,
+2014/15,Part-time,All,Wales,Upper second,480,37%
+2014/15,Part-time,Female,All,First,3050,16%
+2014/15,Part-time,Female,All,Lower second,6010,31%
+2014/15,Part-time,Female,All,Third/Pass,3045,16%
+2014/15,Part-time,Female,All,Total classified,19380,
+2014/15,Part-time,Female,All,Upper second,7280,38%
+2014/15,Part-time,Female,England,First,2740,16%
+2014/15,Part-time,Female,England,Lower second,5430,31%
+2014/15,Part-time,Female,England,Third/Pass,2815,16%
+2014/15,Part-time,Female,England,Total classified,17530,
+2014/15,Part-time,Female,England,Upper second,6545,37%
+2014/15,Part-time,Female,Northern Ireland,First,60,12%
+2014/15,Part-time,Female,Northern Ireland,Lower second,175,35%
+2014/15,Part-time,Female,Northern Ireland,Third/Pass,35,7%
+2014/15,Part-time,Female,Northern Ireland,Total classified,500,
+2014/15,Part-time,Female,Northern Ireland,Upper second,225,45%
+2014/15,Part-time,Female,Scotland,First,105,18%
+2014/15,Part-time,Female,Scotland,Lower second,175,29%
+2014/15,Part-time,Female,Scotland,Third/Pass,85,14%
+2014/15,Part-time,Female,Scotland,Total classified,605,
+2014/15,Part-time,Female,Scotland,Upper second,235,39%
+2014/15,Part-time,Female,Wales,First,140,19%
+2014/15,Part-time,Female,Wales,Lower second,230,30%
+2014/15,Part-time,Female,Wales,Third/Pass,105,14%
+2014/15,Part-time,Female,Wales,Total classified,750,
+2014/15,Part-time,Female,Wales,Upper second,275,36%
+2014/15,Part-time,Male,All,First,2560,19%
+2014/15,Part-time,Male,All,Lower second,3890,29%
+2014/15,Part-time,Male,All,Third/Pass,2210,17%
+2014/15,Part-time,Male,All,Total classified,13355,
+2014/15,Part-time,Male,All,Upper second,4695,35%
+2014/15,Part-time,Male,England,First,2295,19%
+2014/15,Part-time,Male,England,Lower second,3475,29%
+2014/15,Part-time,Male,England,Third/Pass,2015,17%
+2014/15,Part-time,Male,England,Total classified,11925,
+2014/15,Part-time,Male,England,Upper second,4140,35%
+2014/15,Part-time,Male,Northern Ireland,First,60,15%
+2014/15,Part-time,Male,Northern Ireland,Lower second,135,33%
+2014/15,Part-time,Male,Northern Ireland,Third/Pass,45,11%
+2014/15,Part-time,Male,Northern Ireland,Total classified,400,
+2014/15,Part-time,Male,Northern Ireland,Upper second,165,41%
+2014/15,Part-time,Male,Scotland,First,90,18%
+2014/15,Part-time,Male,Scotland,Lower second,155,31%
+2014/15,Part-time,Male,Scotland,Third/Pass,70,14%
+2014/15,Part-time,Male,Scotland,Total classified,495,
+2014/15,Part-time,Male,Scotland,Upper second,185,37%
+2014/15,Part-time,Male,Wales,First,115,21%
+2014/15,Part-time,Male,Wales,Lower second,130,25%
+2014/15,Part-time,Male,Wales,Third/Pass,80,15%
+2014/15,Part-time,Male,Wales,Total classified,535,
+2014/15,Part-time,Male,Wales,Upper second,210,39%
+2014/15,Part-time,Other,All,First,0,..
+2014/15,Part-time,Other,All,Lower second,0,..
+2014/15,Part-time,Other,All,Third/Pass,0,..
+2014/15,Part-time,Other,All,Total classified,0,
+2014/15,Part-time,Other,All,Upper second,0,..
+2014/15,Part-time,Other,England,First,0,..
+2014/15,Part-time,Other,England,Lower second,0,..
+2014/15,Part-time,Other,England,Third/Pass,0,..
+2014/15,Part-time,Other,England,Total classified,0,
+2014/15,Part-time,Other,England,Upper second,0,..
+2015/16,All,All,All,First,88890,24%
+2015/16,All,All,All,Lower second,81595,22%
+2015/16,All,All,All,Third/Pass,19280,5%
+2015/16,All,All,All,Total classified,376330,
+2015/16,All,All,All,Upper second,186565,50%
+2015/16,All,All,England,First,75510,24%
+2015/16,All,All,England,Lower second,69370,22%
+2015/16,All,All,England,Third/Pass,16990,5%
+2015/16,All,All,England,Total classified,319320,
+2015/16,All,All,England,Upper second,157450,49%
+2015/16,All,All,Northern Ireland,First,2080,23%
+2015/16,All,All,Northern Ireland,Lower second,1995,22%
+2015/16,All,All,Northern Ireland,Third/Pass,345,4%
+2015/16,All,All,Northern Ireland,Total classified,9140,
+2015/16,All,All,Northern Ireland,Upper second,4720,52%
+2015/16,All,All,Scotland,First,6670,25%
+2015/16,All,All,Scotland,Lower second,5015,19%
+2015/16,All,All,Scotland,Third/Pass,920,3%
+2015/16,All,All,Scotland,Total classified,26905,
+2015/16,All,All,Scotland,Upper second,14300,53%
+2015/16,All,All,Wales,First,4630,22%
+2015/16,All,All,Wales,Lower second,5210,25%
+2015/16,All,All,Wales,Third/Pass,1025,5%
+2015/16,All,All,Wales,Total classified,20960,
+2015/16,All,All,Wales,Upper second,10095,48%
+2015/16,All,Female,All,First,50825,24%
+2015/16,All,Female,All,Lower second,44030,20%
+2015/16,All,Female,All,Third/Pass,9595,4%
+2015/16,All,Female,All,Total classified,215090,
+2015/16,All,Female,All,Upper second,110645,51%
+2015/16,All,Female,England,First,43225,24%
+2015/16,All,Female,England,Lower second,37805,21%
+2015/16,All,Female,England,Third/Pass,8570,5%
+2015/16,All,Female,England,Total classified,183115,
+2015/16,All,Female,England,Upper second,93515,51%
+2015/16,All,Female,Northern Ireland,First,1215,23%
+2015/16,All,Female,Northern Ireland,Lower second,1020,19%
+2015/16,All,Female,Northern Ireland,Third/Pass,145,3%
+2015/16,All,Female,Northern Ireland,Total classified,5245,
+2015/16,All,Female,Northern Ireland,Upper second,2860,55%
+2015/16,All,Female,Scotland,First,3770,24%
+2015/16,All,Female,Scotland,Lower second,2685,17%
+2015/16,All,Female,Scotland,Third/Pass,430,3%
+2015/16,All,Female,Scotland,Total classified,15400,
+2015/16,All,Female,Scotland,Upper second,8520,55%
+2015/16,All,Female,Wales,First,2615,23%
+2015/16,All,Female,Wales,Lower second,2520,22%
+2015/16,All,Female,Wales,Third/Pass,450,4%
+2015/16,All,Female,Wales,Total classified,11335,
+2015/16,All,Female,Wales,Upper second,5750,51%
+2015/16,All,Male,All,First,38045,24%
+2015/16,All,Male,All,Lower second,37555,23%
+2015/16,All,Male,All,Third/Pass,9680,6%
+2015/16,All,Male,All,Total classified,161160,
+2015/16,All,Male,All,Upper second,75880,47%
+2015/16,All,Male,England,First,32270,24%
+2015/16,All,Male,England,Lower second,31565,23%
+2015/16,All,Male,England,Third/Pass,8415,6%
+2015/16,All,Male,England,Total classified,136160,
+2015/16,All,Male,England,Upper second,63910,47%
+2015/16,All,Male,Northern Ireland,First,865,22%
+2015/16,All,Male,Northern Ireland,Lower second,975,25%
+2015/16,All,Male,Northern Ireland,Third/Pass,195,5%
+2015/16,All,Male,Northern Ireland,Total classified,3900,
+2015/16,All,Male,Northern Ireland,Upper second,1860,48%
+2015/16,All,Male,Scotland,First,2900,25%
+2015/16,All,Male,Scotland,Lower second,2330,20%
+2015/16,All,Male,Scotland,Third/Pass,490,4%
+2015/16,All,Male,Scotland,Total classified,11495,
+2015/16,All,Male,Scotland,Upper second,5770,50%
+2015/16,All,Male,Wales,First,2010,21%
+2015/16,All,Male,Wales,Lower second,2685,28%
+2015/16,All,Male,Wales,Third/Pass,575,6%
+2015/16,All,Male,Wales,Total classified,9610,
+2015/16,All,Male,Wales,Upper second,4340,45%
+2015/16,All,Other,All,First,20,26%
+2015/16,All,Other,All,Lower second,10,11%
+2015/16,All,Other,All,Third/Pass,5,5%
+2015/16,All,Other,All,Total classified,75,
+2015/16,All,Other,All,Upper second,45,58%
+2015/16,All,Other,England,First,15,30%
+2015/16,All,Other,England,Lower second,0,4%
+2015/16,All,Other,England,Third/Pass,5,7%
+2015/16,All,Other,England,Total classified,45,
+2015/16,All,Other,England,Upper second,25,59%
+2015/16,All,Other,Scotland,First,0,..
+2015/16,All,Other,Scotland,Lower second,5,..
+2015/16,All,Other,Scotland,Third/Pass,0,..
+2015/16,All,Other,Scotland,Total classified,15,
+2015/16,All,Other,Scotland,Upper second,10,..
+2015/16,All,Other,Wales,First,5,..
+2015/16,All,Other,Wales,Lower second,5,..
+2015/16,All,Other,Wales,Third/Pass,0,..
+2015/16,All,Other,Wales,Total classified,15,
+2015/16,All,Other,Wales,Upper second,10,..
+2015/16,Full-time,All,All,First,83720,24%
+2015/16,Full-time,All,All,Lower second,73180,21%
+2015/16,Full-time,All,All,Third/Pass,14335,4%
+2015/16,Full-time,All,All,Total classified,347445,
+2015/16,Full-time,All,All,Upper second,176215,51%
+2015/16,Full-time,All,England,First,70960,24%
+2015/16,Full-time,All,England,Lower second,61755,21%
+2015/16,Full-time,All,England,Third/Pass,12415,4%
+2015/16,Full-time,All,England,Total classified,293475,
+2015/16,Full-time,All,England,Upper second,148340,51%
+2015/16,Full-time,All,Northern Ireland,First,1930,23%
+2015/16,Full-time,All,Northern Ireland,Lower second,1785,21%
+2015/16,Full-time,All,Northern Ireland,Third/Pass,265,3%
+2015/16,Full-time,All,Northern Ireland,Total classified,8320,
+2015/16,Full-time,All,Northern Ireland,Upper second,4340,52%
+2015/16,Full-time,All,Scotland,First,6465,25%
+2015/16,Full-time,All,Scotland,Lower second,4670,18%
+2015/16,Full-time,All,Scotland,Third/Pass,765,3%
+2015/16,Full-time,All,Scotland,Total classified,25740,
+2015/16,Full-time,All,Scotland,Upper second,13840,54%
+2015/16,Full-time,All,Wales,First,4365,22%
+2015/16,Full-time,All,Wales,Lower second,4965,25%
+2015/16,Full-time,All,Wales,Third/Pass,890,4%
+2015/16,Full-time,All,Wales,Total classified,19910,
+2015/16,Full-time,All,Wales,Upper second,9695,49%
+2015/16,Full-time,Female,All,First,48075,24%
+2015/16,Full-time,Female,All,Lower second,38910,20%
+2015/16,Full-time,Female,All,Third/Pass,6770,3%
+2015/16,Full-time,Female,All,Total classified,198180,
+2015/16,Full-time,Female,All,Upper second,104420,53%
+2015/16,Full-time,Female,England,First,40770,24%
+2015/16,Full-time,Female,England,Lower second,33150,20%
+2015/16,Full-time,Female,England,Third/Pass,5955,4%
+2015/16,Full-time,Female,England,Total classified,167880,
+2015/16,Full-time,Female,England,Upper second,88005,52%
+2015/16,Full-time,Female,Northern Ireland,First,1140,24%
+2015/16,Full-time,Female,Northern Ireland,Lower second,900,19%
+2015/16,Full-time,Female,Northern Ireland,Third/Pass,105,2%
+2015/16,Full-time,Female,Northern Ireland,Total classified,4775,
+2015/16,Full-time,Female,Northern Ireland,Upper second,2630,55%
+2015/16,Full-time,Female,Scotland,First,3665,25%
+2015/16,Full-time,Female,Scotland,Lower second,2490,17%
+2015/16,Full-time,Female,Scotland,Third/Pass,330,2%
+2015/16,Full-time,Female,Scotland,Total classified,14745,
+2015/16,Full-time,Female,Scotland,Upper second,8260,56%
+2015/16,Full-time,Female,Wales,First,2500,23%
+2015/16,Full-time,Female,Wales,Lower second,2370,22%
+2015/16,Full-time,Female,Wales,Third/Pass,385,4%
+2015/16,Full-time,Female,Wales,Total classified,10785,
+2015/16,Full-time,Female,Wales,Upper second,5525,51%
+2015/16,Full-time,Male,All,First,35630,24%
+2015/16,Full-time,Male,All,Lower second,34260,23%
+2015/16,Full-time,Male,All,Third/Pass,7560,5%
+2015/16,Full-time,Male,All,Total classified,149195,
+2015/16,Full-time,Male,All,Upper second,71750,48%
+2015/16,Full-time,Male,England,First,30175,24%
+2015/16,Full-time,Male,England,Lower second,28605,23%
+2015/16,Full-time,Male,England,Third/Pass,6460,5%
+2015/16,Full-time,Male,England,Total classified,125555,
+2015/16,Full-time,Male,England,Upper second,60310,48%
+2015/16,Full-time,Male,Northern Ireland,First,795,22%
+2015/16,Full-time,Male,Northern Ireland,Lower second,885,25%
+2015/16,Full-time,Male,Northern Ireland,Third/Pass,160,5%
+2015/16,Full-time,Male,Northern Ireland,Total classified,3545,
+2015/16,Full-time,Male,Northern Ireland,Upper second,1710,48%
+2015/16,Full-time,Male,Scotland,First,2800,25%
+2015/16,Full-time,Male,Scotland,Lower second,2175,20%
+2015/16,Full-time,Male,Scotland,Third/Pass,435,4%
+2015/16,Full-time,Male,Scotland,Total classified,10985,
+2015/16,Full-time,Male,Scotland,Upper second,5570,51%
+2015/16,Full-time,Male,Wales,First,1860,20%
+2015/16,Full-time,Male,Wales,Lower second,2590,28%
+2015/16,Full-time,Male,Wales,Third/Pass,505,6%
+2015/16,Full-time,Male,Wales,Total classified,9115,
+2015/16,Full-time,Male,Wales,Upper second,4160,46%
+2015/16,Full-time,Other,All,First,20,25%
+2015/16,Full-time,Other,All,Lower second,10,11%
+2015/16,Full-time,Other,All,Third/Pass,5,4%
+2015/16,Full-time,Other,All,Total classified,70,
+2015/16,Full-time,Other,All,Upper second,45,60%
+2015/16,Full-time,Other,England,First,15,30%
+2015/16,Full-time,Other,England,Lower second,0,5%
+2015/16,Full-time,Other,England,Third/Pass,0,5%
+2015/16,Full-time,Other,England,Total classified,45,
+2015/16,Full-time,Other,England,Upper second,25,61%
+2015/16,Full-time,Other,Scotland,First,0,..
+2015/16,Full-time,Other,Scotland,Lower second,5,..
+2015/16,Full-time,Other,Scotland,Third/Pass,0,..
+2015/16,Full-time,Other,Scotland,Total classified,15,
+2015/16,Full-time,Other,Scotland,Upper second,10,..
+2015/16,Full-time,Other,Wales,First,5,..
+2015/16,Full-time,Other,Wales,Lower second,5,..
+2015/16,Full-time,Other,Wales,Third/Pass,0,..
+2015/16,Full-time,Other,Wales,Total classified,15,
+2015/16,Full-time,Other,Wales,Upper second,10,..
+2015/16,Part-time,All,All,First,5170,18%
+2015/16,Part-time,All,All,Lower second,8415,29%
+2015/16,Part-time,All,All,Third/Pass,4945,17%
+2015/16,Part-time,All,All,Total classified,28880,
+2015/16,Part-time,All,All,Upper second,10355,36%
+2015/16,Part-time,All,England,First,4550,18%
+2015/16,Part-time,All,England,Lower second,7615,29%
+2015/16,Part-time,All,England,Third/Pass,4575,18%
+2015/16,Part-time,All,England,Total classified,25845,
+2015/16,Part-time,All,England,Upper second,9110,35%
+2015/16,Part-time,All,Northern Ireland,First,150,18%
+2015/16,Part-time,All,Northern Ireland,Lower second,210,26%
+2015/16,Part-time,All,Northern Ireland,Third/Pass,80,10%
+2015/16,Part-time,All,Northern Ireland,Total classified,825,
+2015/16,Part-time,All,Northern Ireland,Upper second,380,46%
+2015/16,Part-time,All,Scotland,First,205,17%
+2015/16,Part-time,All,Scotland,Lower second,345,30%
+2015/16,Part-time,All,Scotland,Third/Pass,155,13%
+2015/16,Part-time,All,Scotland,Total classified,1165,
+2015/16,Part-time,All,Scotland,Upper second,460,39%
+2015/16,Part-time,All,Wales,First,265,25%
+2015/16,Part-time,All,Wales,Lower second,245,23%
+2015/16,Part-time,All,Wales,Third/Pass,135,13%
+2015/16,Part-time,All,Wales,Total classified,1050,
+2015/16,Part-time,All,Wales,Upper second,405,39%
+2015/16,Part-time,Female,All,First,2750,16%
+2015/16,Part-time,Female,All,Lower second,5115,30%
+2015/16,Part-time,Female,All,Third/Pass,2820,17%
+2015/16,Part-time,Female,All,Total classified,16915,
+2015/16,Part-time,Female,All,Upper second,6225,37%
+2015/16,Part-time,Female,England,First,2455,16%
+2015/16,Part-time,Female,England,Lower second,4655,31%
+2015/16,Part-time,Female,England,Third/Pass,2615,17%
+2015/16,Part-time,Female,England,Total classified,15235,
+2015/16,Part-time,Female,England,Upper second,5510,36%
+2015/16,Part-time,Female,Northern Ireland,First,80,17%
+2015/16,Part-time,Female,Northern Ireland,Lower second,120,25%
+2015/16,Part-time,Female,Northern Ireland,Third/Pass,45,9%
+2015/16,Part-time,Female,Northern Ireland,Total classified,470,
+2015/16,Part-time,Female,Northern Ireland,Upper second,230,49%
+2015/16,Part-time,Female,Scotland,First,105,16%
+2015/16,Part-time,Female,Scotland,Lower second,190,29%
+2015/16,Part-time,Female,Scotland,Third/Pass,100,15%
+2015/16,Part-time,Female,Scotland,Total classified,655,
+2015/16,Part-time,Female,Scotland,Upper second,260,40%
+2015/16,Part-time,Female,Wales,First,115,20%
+2015/16,Part-time,Female,Wales,Lower second,150,27%
+2015/16,Part-time,Female,Wales,Third/Pass,65,12%
+2015/16,Part-time,Female,Wales,Total classified,555,
+2015/16,Part-time,Female,Wales,Upper second,225,41%
+2015/16,Part-time,Male,All,First,2415,20%
+2015/16,Part-time,Male,All,Lower second,3300,28%
+2015/16,Part-time,Male,All,Third/Pass,2120,18%
+2015/16,Part-time,Male,All,Total classified,11965,
+2015/16,Part-time,Male,All,Upper second,4130,35%
+2015/16,Part-time,Male,England,First,2095,20%
+2015/16,Part-time,Male,England,Lower second,2955,28%
+2015/16,Part-time,Male,England,Third/Pass,1960,18%
+2015/16,Part-time,Male,England,Total classified,10610,
+2015/16,Part-time,Male,England,Upper second,3600,34%
+2015/16,Part-time,Male,Northern Ireland,First,70,20%
+2015/16,Part-time,Male,Northern Ireland,Lower second,95,27%
+2015/16,Part-time,Male,Northern Ireland,Third/Pass,35,11%
+2015/16,Part-time,Male,Northern Ireland,Total classified,350,
+2015/16,Part-time,Male,Northern Ireland,Upper second,150,43%
+2015/16,Part-time,Male,Scotland,First,100,19%
+2015/16,Part-time,Male,Scotland,Lower second,155,30%
+2015/16,Part-time,Male,Scotland,Third/Pass,55,11%
+2015/16,Part-time,Male,Scotland,Total classified,510,
+2015/16,Part-time,Male,Scotland,Upper second,200,39%
+2015/16,Part-time,Male,Wales,First,155,31%
+2015/16,Part-time,Male,Wales,Lower second,95,19%
+2015/16,Part-time,Male,Wales,Third/Pass,70,14%
+2015/16,Part-time,Male,Wales,Total classified,495,
+2015/16,Part-time,Male,Wales,Upper second,180,36%
+2015/16,Part-time,Other,All,First,0,..
+2015/16,Part-time,Other,All,Lower second,0,..
+2015/16,Part-time,Other,All,Third/Pass,0,..
+2015/16,Part-time,Other,All,Total classified,0,
+2015/16,Part-time,Other,All,Upper second,0,..
+2015/16,Part-time,Other,England,First,0,..
+2015/16,Part-time,Other,England,Lower second,0,..
+2015/16,Part-time,Other,England,Third/Pass,0,..
+2015/16,Part-time,Other,England,Total classified,0,
+2015/16,Part-time,Other,England,Upper second,0,..
+2016/17,All,All,All,First,100945,26%
+2016/17,All,All,All,Lower second,79515,20%
+2016/17,All,All,All,Third/Pass,19025,5%
+2016/17,All,All,All,Total classified,391875,
+2016/17,All,All,All,Upper second,192395,49%
+2016/17,All,All,England,First,86465,26%
+2016/17,All,All,England,Lower second,67375,20%
+2016/17,All,All,England,Third/Pass,16650,5%
+2016/17,All,All,England,Total classified,332860,
+2016/17,All,All,England,Upper second,162375,49%
+2016/17,All,All,Northern Ireland,First,2190,23%
+2016/17,All,All,Northern Ireland,Lower second,1970,21%
+2016/17,All,All,Northern Ireland,Third/Pass,280,3%
+2016/17,All,All,Northern Ireland,Total classified,9450,
+2016/17,All,All,Northern Ireland,Upper second,5015,53%
+2016/17,All,All,Scotland,First,6960,25%
+2016/17,All,All,Scotland,Lower second,4945,18%
+2016/17,All,All,Scotland,Third/Pass,1015,4%
+2016/17,All,All,Scotland,Total classified,27565,
+2016/17,All,All,Scotland,Upper second,14645,53%
+2016/17,All,All,Wales,First,5330,24%
+2016/17,All,All,Wales,Lower second,5225,24%
+2016/17,All,All,Wales,Third/Pass,1080,5%
+2016/17,All,All,Wales,Total classified,22000,
+2016/17,All,All,Wales,Upper second,10365,47%
+2016/17,All,Female,All,First,58215,26%
+2016/17,All,Female,All,Lower second,42190,19%
+2016/17,All,Female,All,Third/Pass,9665,4%
+2016/17,All,Female,All,Total classified,223645,
+2016/17,All,Female,All,Upper second,113580,51%
+2016/17,All,Female,England,First,49895,26%
+2016/17,All,Female,England,Lower second,36175,19%
+2016/17,All,Female,England,Third/Pass,8585,5%
+2016/17,All,Female,England,Total classified,190660,
+2016/17,All,Female,England,Upper second,96000,50%
+2016/17,All,Female,Northern Ireland,First,1275,24%
+2016/17,All,Female,Northern Ireland,Lower second,1015,19%
+2016/17,All,Female,Northern Ireland,Third/Pass,110,2%
+2016/17,All,Female,Northern Ireland,Total classified,5355,
+2016/17,All,Female,Northern Ireland,Upper second,2950,55%
+2016/17,All,Female,Scotland,First,3960,25%
+2016/17,All,Female,Scotland,Lower second,2505,16%
+2016/17,All,Female,Scotland,Third/Pass,495,3%
+2016/17,All,Female,Scotland,Total classified,15760,
+2016/17,All,Female,Scotland,Upper second,8805,56%
+2016/17,All,Female,Wales,First,3080,26%
+2016/17,All,Female,Wales,Lower second,2490,21%
+2016/17,All,Female,Wales,Third/Pass,470,4%
+2016/17,All,Female,Wales,Total classified,11865,
+2016/17,All,Female,Wales,Upper second,5825,49%
+2016/17,All,Male,All,First,42695,25%
+2016/17,All,Male,All,Lower second,37315,22%
+2016/17,All,Male,All,Third/Pass,9355,6%
+2016/17,All,Male,All,Total classified,168130,
+2016/17,All,Male,All,Upper second,78765,47%
+2016/17,All,Male,England,First,36540,26%
+2016/17,All,Male,England,Lower second,31190,22%
+2016/17,All,Male,England,Third/Pass,8065,6%
+2016/17,All,Male,England,Total classified,142125,
+2016/17,All,Male,England,Upper second,66335,47%
+2016/17,All,Male,Northern Ireland,First,910,22%
+2016/17,All,Male,Northern Ireland,Lower second,955,23%
+2016/17,All,Male,Northern Ireland,Third/Pass,170,4%
+2016/17,All,Male,Northern Ireland,Total classified,4095,
+2016/17,All,Male,Northern Ireland,Upper second,2060,50%
+2016/17,All,Male,Scotland,First,2990,25%
+2016/17,All,Male,Scotland,Lower second,2440,21%
+2016/17,All,Male,Scotland,Third/Pass,520,4%
+2016/17,All,Male,Scotland,Total classified,11790,
+2016/17,All,Male,Scotland,Upper second,5835,49%
+2016/17,All,Male,Wales,First,2250,22%
+2016/17,All,Male,Wales,Lower second,2730,27%
+2016/17,All,Male,Wales,Third/Pass,605,6%
+2016/17,All,Male,Wales,Total classified,10120,
+2016/17,All,Male,Wales,Upper second,4535,45%
+2016/17,All,Other,All,First,35,34%
+2016/17,All,Other,All,Lower second,10,12%
+2016/17,All,Other,All,Third/Pass,5,3%
+2016/17,All,Other,All,Total classified,95,
+2016/17,All,Other,All,Upper second,50,51%
+2016/17,All,Other,England,First,25,36%
+2016/17,All,Other,England,Lower second,10,12%
+2016/17,All,Other,England,Third/Pass,0,1%
+2016/17,All,Other,England,Total classified,75,
+2016/17,All,Other,England,Upper second,40,51%
+2016/17,All,Other,Scotland,First,5,..
+2016/17,All,Other,Scotland,Lower second,0,..
+2016/17,All,Other,Scotland,Third/Pass,0,..
+2016/17,All,Other,Scotland,Total classified,10,
+2016/17,All,Other,Scotland,Upper second,5,..
+2016/17,All,Other,Wales,First,0,..
+2016/17,All,Other,Wales,Lower second,0,..
+2016/17,All,Other,Wales,Third/Pass,0,..
+2016/17,All,Other,Wales,Total classified,10,
+2016/17,All,Other,Wales,Upper second,5,..
+2016/17,Full-time,All,All,First,95525,26%
+2016/17,Full-time,All,All,Lower second,71290,20%
+2016/17,Full-time,All,All,Third/Pass,14225,4%
+2016/17,Full-time,All,All,Total classified,363350,
+2016/17,Full-time,All,All,Upper second,182305,50%
+2016/17,Full-time,All,England,First,81680,27%
+2016/17,Full-time,All,England,Lower second,60045,20%
+2016/17,Full-time,All,England,Third/Pass,12225,4%
+2016/17,Full-time,All,England,Total classified,307540,
+2016/17,Full-time,All,England,Upper second,153595,50%
+2016/17,Full-time,All,Northern Ireland,First,2040,24%
+2016/17,Full-time,All,Northern Ireland,Lower second,1755,20%
+2016/17,Full-time,All,Northern Ireland,Third/Pass,205,2%
+2016/17,Full-time,All,Northern Ireland,Total classified,8630,
+2016/17,Full-time,All,Northern Ireland,Upper second,4630,54%
+2016/17,Full-time,All,Scotland,First,6740,26%
+2016/17,Full-time,All,Scotland,Lower second,4545,17%
+2016/17,Full-time,All,Scotland,Third/Pass,845,3%
+2016/17,Full-time,All,Scotland,Total classified,26275,
+2016/17,Full-time,All,Scotland,Upper second,14145,54%
+2016/17,Full-time,All,Wales,First,5070,24%
+2016/17,Full-time,All,Wales,Lower second,4945,24%
+2016/17,Full-time,All,Wales,Third/Pass,950,5%
+2016/17,Full-time,All,Wales,Total classified,20905,
+2016/17,Full-time,All,Wales,Upper second,9940,48%
+2016/17,Full-time,Female,All,First,55365,27%
+2016/17,Full-time,Female,All,Lower second,37290,18%
+2016/17,Full-time,Female,All,Third/Pass,6890,3%
+2016/17,Full-time,Female,All,Total classified,207205,
+2016/17,Full-time,Female,All,Upper second,107660,52%
+2016/17,Full-time,Female,England,First,47345,27%
+2016/17,Full-time,Female,England,Lower second,31770,18%
+2016/17,Full-time,Female,England,Third/Pass,6020,3%
+2016/17,Full-time,Female,England,Total classified,175955,
+2016/17,Full-time,Female,England,Upper second,90820,52%
+2016/17,Full-time,Female,Northern Ireland,First,1210,25%
+2016/17,Full-time,Female,Northern Ireland,Lower second,890,18%
+2016/17,Full-time,Female,Northern Ireland,Third/Pass,75,1%
+2016/17,Full-time,Female,Northern Ireland,Total classified,4900,
+2016/17,Full-time,Female,Northern Ireland,Upper second,2730,56%
+2016/17,Full-time,Female,Scotland,First,3850,26%
+2016/17,Full-time,Female,Scotland,Lower second,2290,15%
+2016/17,Full-time,Female,Scotland,Third/Pass,395,3%
+2016/17,Full-time,Female,Scotland,Total classified,15045,
+2016/17,Full-time,Female,Scotland,Upper second,8515,57%
+2016/17,Full-time,Female,Wales,First,2960,26%
+2016/17,Full-time,Female,Wales,Lower second,2340,21%
+2016/17,Full-time,Female,Wales,Third/Pass,405,4%
+2016/17,Full-time,Female,Wales,Total classified,11305,
+2016/17,Full-time,Female,Wales,Upper second,5600,50%
+2016/17,Full-time,Male,All,First,40130,26%
+2016/17,Full-time,Male,All,Lower second,33985,22%
+2016/17,Full-time,Male,All,Third/Pass,7335,5%
+2016/17,Full-time,Male,All,Total classified,156050,
+2016/17,Full-time,Male,All,Upper second,74595,48%
+2016/17,Full-time,Male,England,First,34305,26%
+2016/17,Full-time,Male,England,Lower second,28265,21%
+2016/17,Full-time,Male,England,Third/Pass,6205,5%
+2016/17,Full-time,Male,England,Total classified,131510,
+2016/17,Full-time,Male,England,Upper second,62735,48%
+2016/17,Full-time,Male,Northern Ireland,First,830,22%
+2016/17,Full-time,Male,Northern Ireland,Lower second,865,23%
+2016/17,Full-time,Male,Northern Ireland,Third/Pass,135,4%
+2016/17,Full-time,Male,Northern Ireland,Total classified,3730,
+2016/17,Full-time,Male,Northern Ireland,Upper second,1900,51%
+2016/17,Full-time,Male,Scotland,First,2885,26%
+2016/17,Full-time,Male,Scotland,Lower second,2255,20%
+2016/17,Full-time,Male,Scotland,Third/Pass,455,4%
+2016/17,Full-time,Male,Scotland,Total classified,11220,
+2016/17,Full-time,Male,Scotland,Upper second,5625,50%
+2016/17,Full-time,Male,Wales,First,2110,22%
+2016/17,Full-time,Male,Wales,Lower second,2600,27%
+2016/17,Full-time,Male,Wales,Third/Pass,545,6%
+2016/17,Full-time,Male,Wales,Total classified,9585,
+2016/17,Full-time,Male,Wales,Upper second,4335,45%
+2016/17,Full-time,Other,All,First,35,35%
+2016/17,Full-time,Other,All,Lower second,10,12%
+2016/17,Full-time,Other,All,Third/Pass,5,3%
+2016/17,Full-time,Other,All,Total classified,95,
+2016/17,Full-time,Other,All,Upper second,50,51%
+2016/17,Full-time,Other,England,First,25,36%
+2016/17,Full-time,Other,England,Lower second,10,11%
+2016/17,Full-time,Other,England,Third/Pass,0,1%
+2016/17,Full-time,Other,England,Total classified,75,
+2016/17,Full-time,Other,England,Upper second,40,51%
+2016/17,Full-time,Other,Scotland,First,5,..
+2016/17,Full-time,Other,Scotland,Lower second,0,..
+2016/17,Full-time,Other,Scotland,Third/Pass,0,..
+2016/17,Full-time,Other,Scotland,Total classified,10,
+2016/17,Full-time,Other,Scotland,Upper second,5,..
+2016/17,Full-time,Other,Wales,First,0,..
+2016/17,Full-time,Other,Wales,Lower second,0,..
+2016/17,Full-time,Other,Wales,Third/Pass,0,..
+2016/17,Full-time,Other,Wales,Total classified,10,
+2016/17,Full-time,Other,Wales,Upper second,5,..
+2016/17,Part-time,All,All,First,5415,19%
+2016/17,Part-time,All,All,Lower second,8225,29%
+2016/17,Part-time,All,All,Third/Pass,4795,17%
+2016/17,Part-time,All,All,Total classified,28525,
+2016/17,Part-time,All,All,Upper second,10090,35%
+2016/17,Part-time,All,England,First,4785,19%
+2016/17,Part-time,All,England,Lower second,7330,29%
+2016/17,Part-time,All,England,Third/Pass,4425,17%
+2016/17,Part-time,All,England,Total classified,25320,
+2016/17,Part-time,All,England,Upper second,8780,35%
+2016/17,Part-time,All,Northern Ireland,First,150,18%
+2016/17,Part-time,All,Northern Ireland,Lower second,215,26%
+2016/17,Part-time,All,Northern Ireland,Third/Pass,75,9%
+2016/17,Part-time,All,Northern Ireland,Total classified,820,
+2016/17,Part-time,All,Northern Ireland,Upper second,385,47%
+2016/17,Part-time,All,Scotland,First,220,17%
+2016/17,Part-time,All,Scotland,Lower second,400,31%
+2016/17,Part-time,All,Scotland,Third/Pass,170,13%
+2016/17,Part-time,All,Scotland,Total classified,1290,
+2016/17,Part-time,All,Scotland,Upper second,500,39%
+2016/17,Part-time,All,Wales,First,260,24%
+2016/17,Part-time,All,Wales,Lower second,280,26%
+2016/17,Part-time,All,Wales,Third/Pass,130,12%
+2016/17,Part-time,All,Wales,Total classified,1095,
+2016/17,Part-time,All,Wales,Upper second,425,39%
+2016/17,Part-time,Female,All,First,2855,17%
+2016/17,Part-time,Female,All,Lower second,4895,30%
+2016/17,Part-time,Female,All,Third/Pass,2775,17%
+2016/17,Part-time,Female,All,Total classified,16440,
+2016/17,Part-time,Female,All,Upper second,5920,36%
+2016/17,Part-time,Female,England,First,2550,17%
+2016/17,Part-time,Female,England,Lower second,4405,30%
+2016/17,Part-time,Female,England,Third/Pass,2565,17%
+2016/17,Part-time,Female,England,Total classified,14705,
+2016/17,Part-time,Female,England,Upper second,5185,35%
+2016/17,Part-time,Female,Northern Ireland,First,70,15%
+2016/17,Part-time,Female,Northern Ireland,Lower second,125,28%
+2016/17,Part-time,Female,Northern Ireland,Third/Pass,40,9%
+2016/17,Part-time,Female,Northern Ireland,Total classified,455,
+2016/17,Part-time,Female,Northern Ireland,Upper second,225,49%
+2016/17,Part-time,Female,Scotland,First,115,16%
+2016/17,Part-time,Female,Scotland,Lower second,215,30%
+2016/17,Part-time,Female,Scotland,Third/Pass,100,14%
+2016/17,Part-time,Female,Scotland,Total classified,715,
+2016/17,Part-time,Female,Scotland,Upper second,290,40%
+2016/17,Part-time,Female,Wales,First,120,22%
+2016/17,Part-time,Female,Wales,Lower second,150,27%
+2016/17,Part-time,Female,Wales,Third/Pass,70,12%
+2016/17,Part-time,Female,Wales,Total classified,560,
+2016/17,Part-time,Female,Wales,Upper second,225,40%
+2016/17,Part-time,Male,All,First,2565,21%
+2016/17,Part-time,Male,All,Lower second,3325,28%
+2016/17,Part-time,Male,All,Third/Pass,2025,17%
+2016/17,Part-time,Male,All,Total classified,12080,
+2016/17,Part-time,Male,All,Upper second,4170,35%
+2016/17,Part-time,Male,England,First,2235,21%
+2016/17,Part-time,Male,England,Lower second,2920,28%
+2016/17,Part-time,Male,England,Third/Pass,1860,18%
+2016/17,Part-time,Male,England,Total classified,10610,
+2016/17,Part-time,Male,England,Upper second,3595,34%
+2016/17,Part-time,Male,Northern Ireland,First,80,22%
+2016/17,Part-time,Male,Northern Ireland,Lower second,85,24%
+2016/17,Part-time,Male,Northern Ireland,Third/Pass,35,10%
+2016/17,Part-time,Male,Northern Ireland,Total classified,365,
+2016/17,Part-time,Male,Northern Ireland,Upper second,160,45%
+2016/17,Part-time,Male,Scotland,First,110,19%
+2016/17,Part-time,Male,Scotland,Lower second,185,33%
+2016/17,Part-time,Male,Scotland,Third/Pass,70,12%
+2016/17,Part-time,Male,Scotland,Total classified,570,
+2016/17,Part-time,Male,Scotland,Upper second,210,37%
+2016/17,Part-time,Male,Wales,First,140,26%
+2016/17,Part-time,Male,Wales,Lower second,130,25%
+2016/17,Part-time,Male,Wales,Third/Pass,60,11%
+2016/17,Part-time,Male,Wales,Total classified,535,
+2016/17,Part-time,Male,Wales,Upper second,200,38%
+2016/17,Part-time,Other,All,First,0,..
+2016/17,Part-time,Other,All,Lower second,0,..
+2016/17,Part-time,Other,All,Third/Pass,0,..
+2016/17,Part-time,Other,All,Total classified,0,
+2016/17,Part-time,Other,All,Upper second,0,..
+2016/17,Part-time,Other,England,First,0,..
+2016/17,Part-time,Other,England,Lower second,0,..
+2016/17,Part-time,Other,England,Third/Pass,0,..
+2016/17,Part-time,Other,England,Total classified,0,
+2016/17,Part-time,Other,England,Upper second,0,..
+2016/17,Part-time,Other,Wales,First,0,..
+2016/17,Part-time,Other,Wales,Lower second,0,..
+2016/17,Part-time,Other,Wales,Third/Pass,0,..
+2016/17,Part-time,Other,Wales,Total classified,0,
+2016/17,Part-time,Other,Wales,Upper second,0,..
+2017/18,All,All,All,First,110475,28%
+2017/18,All,All,All,Lower second,76210,19%
+2017/18,All,All,All,Third/Pass,17830,4%
+2017/18,All,All,All,Total classified,396940,
+2017/18,All,All,All,Upper second,192425,48%
+2017/18,All,All,England,First,94685,28%
+2017/18,All,All,England,Lower second,65055,19%
+2017/18,All,All,England,Third/Pass,15700,5%
+2017/18,All,All,England,Total classified,338060,
+2017/18,All,All,England,Upper second,162620,48%
+2017/18,All,All,Northern Ireland,First,2450,28%
+2017/18,All,All,Northern Ireland,Lower second,1660,19%
+2017/18,All,All,Northern Ireland,Third/Pass,240,3%
+2017/18,All,All,Northern Ireland,Total classified,8900,
+2017/18,All,All,Northern Ireland,Upper second,4550,51%
+2017/18,All,All,Scotland,First,7575,27%
+2017/18,All,All,Scotland,Lower second,4740,17%
+2017/18,All,All,Scotland,Third/Pass,945,3%
+2017/18,All,All,Scotland,Total classified,28370,
+2017/18,All,All,Scotland,Upper second,15115,53%
+2017/18,All,All,Wales,First,5765,27%
+2017/18,All,All,Wales,Lower second,4760,22%
+2017/18,All,All,Wales,Third/Pass,945,4%
+2017/18,All,All,Wales,Total classified,21610,
+2017/18,All,All,Wales,Upper second,10140,47%
+2017/18,All,Female,All,First,64415,28%
+2017/18,All,Female,All,Lower second,40350,18%
+2017/18,All,Female,All,Third/Pass,8885,4%
+2017/18,All,Female,All,Total classified,227840,
+2017/18,All,Female,All,Upper second,114190,50%
+2017/18,All,Female,England,First,55320,28%
+2017/18,All,Female,England,Lower second,34730,18%
+2017/18,All,Female,England,Third/Pass,7890,4%
+2017/18,All,Female,England,Total classified,194770,
+2017/18,All,Female,England,Upper second,96830,50%
+2017/18,All,Female,Northern Ireland,First,1435,28%
+2017/18,All,Female,Northern Ireland,Lower second,870,17%
+2017/18,All,Female,Northern Ireland,Third/Pass,95,2%
+2017/18,All,Female,Northern Ireland,Total classified,5095,
+2017/18,All,Female,Northern Ireland,Upper second,2690,53%
+2017/18,All,Female,Scotland,First,4370,27%
+2017/18,All,Female,Scotland,Lower second,2480,15%
+2017/18,All,Female,Scotland,Third/Pass,470,3%
+2017/18,All,Female,Scotland,Total classified,16280,
+2017/18,All,Female,Scotland,Upper second,8955,55%
+2017/18,All,Female,Wales,First,3290,28%
+2017/18,All,Female,Wales,Lower second,2265,19%
+2017/18,All,Female,Wales,Third/Pass,430,4%
+2017/18,All,Female,Wales,Total classified,11695,
+2017/18,All,Female,Wales,Upper second,5710,49%
+2017/18,All,Male,All,First,46000,27%
+2017/18,All,Male,All,Lower second,35835,21%
+2017/18,All,Male,All,Third/Pass,8940,5%
+2017/18,All,Male,All,Total classified,168920,
+2017/18,All,Male,All,Upper second,78150,46%
+2017/18,All,Male,England,First,39320,27%
+2017/18,All,Male,England,Lower second,30305,21%
+2017/18,All,Male,England,Third/Pass,7805,5%
+2017/18,All,Male,England,Total classified,143155,
+2017/18,All,Male,England,Upper second,65730,46%
+2017/18,All,Male,Northern Ireland,First,1015,27%
+2017/18,All,Male,Northern Ireland,Lower second,790,21%
+2017/18,All,Male,Northern Ireland,Third/Pass,140,4%
+2017/18,All,Male,Northern Ireland,Total classified,3805,
+2017/18,All,Male,Northern Ireland,Upper second,1860,49%
+2017/18,All,Male,Scotland,First,3195,26%
+2017/18,All,Male,Scotland,Lower second,2255,19%
+2017/18,All,Male,Scotland,Third/Pass,475,4%
+2017/18,All,Male,Scotland,Total classified,12065,
+2017/18,All,Male,Scotland,Upper second,6135,51%
+2017/18,All,Male,Wales,First,2470,25%
+2017/18,All,Male,Wales,Lower second,2490,25%
+2017/18,All,Male,Wales,Third/Pass,515,5%
+2017/18,All,Male,Wales,Total classified,9895,
+2017/18,All,Male,Wales,Upper second,4420,45%
+2017/18,All,Other,All,First,60,34%
+2017/18,All,Other,All,Lower second,25,15%
+2017/18,All,Other,All,Third/Pass,5,3%
+2017/18,All,Other,All,Total classified,180,
+2017/18,All,Other,All,Upper second,85,48%
+2017/18,All,Other,England,First,45,35%
+2017/18,All,Other,England,Lower second,20,17%
+2017/18,All,Other,England,Third/Pass,5,4%
+2017/18,All,Other,England,Total classified,130,
+2017/18,All,Other,England,Upper second,60,45%
+2017/18,All,Other,Scotland,First,5,25%
+2017/18,All,Other,Scotland,Lower second,0,7%
+2017/18,All,Other,Scotland,Third/Pass,0,0%
+2017/18,All,Other,Scotland,Total classified,30,
+2017/18,All,Other,Scotland,Upper second,20,68%
+2017/18,All,Other,Wales,First,10,..
+2017/18,All,Other,Wales,Lower second,0,..
+2017/18,All,Other,Wales,Third/Pass,0,..
+2017/18,All,Other,Wales,Total classified,20,
+2017/18,All,Other,Wales,Upper second,10,..
+2017/18,Full-time,All,All,First,105500,28%
+2017/18,Full-time,All,All,Lower second,69105,19%
+2017/18,Full-time,All,All,Third/Pass,13435,4%
+2017/18,Full-time,All,All,Total classified,372190,
+2017/18,Full-time,All,All,Upper second,184150,49%
+2017/18,Full-time,All,England,First,90370,29%
+2017/18,Full-time,All,England,Lower second,58760,19%
+2017/18,Full-time,All,England,Third/Pass,11710,4%
+2017/18,Full-time,All,England,Total classified,316265,
+2017/18,Full-time,All,England,Upper second,155425,49%
+2017/18,Full-time,All,Northern Ireland,First,2265,28%
+2017/18,Full-time,All,Northern Ireland,Lower second,1450,18%
+2017/18,Full-time,All,Northern Ireland,Third/Pass,160,2%
+2017/18,Full-time,All,Northern Ireland,Total classified,8115,
+2017/18,Full-time,All,Northern Ireland,Upper second,4235,52%
+2017/18,Full-time,All,Scotland,First,7355,27%
+2017/18,Full-time,All,Scotland,Lower second,4385,16%
+2017/18,Full-time,All,Scotland,Third/Pass,755,3%
+2017/18,Full-time,All,Scotland,Total classified,27190,
+2017/18,Full-time,All,Scotland,Upper second,14695,54%
+2017/18,Full-time,All,Wales,First,5500,27%
+2017/18,Full-time,All,Wales,Lower second,4510,22%
+2017/18,Full-time,All,Wales,Third/Pass,810,4%
+2017/18,Full-time,All,Wales,Total classified,20620,
+2017/18,Full-time,All,Wales,Upper second,9795,48%
+2017/18,Full-time,Female,All,First,61875,29%
+2017/18,Full-time,Female,All,Lower second,36220,17%
+2017/18,Full-time,Female,All,Third/Pass,6360,3%
+2017/18,Full-time,Female,All,Total classified,213920,
+2017/18,Full-time,Female,All,Upper second,109465,51%
+2017/18,Full-time,Female,England,First,53110,29%
+2017/18,Full-time,Female,England,Lower second,31070,17%
+2017/18,Full-time,Female,England,Third/Pass,5580,3%
+2017/18,Full-time,Female,England,Total classified,182440,
+2017/18,Full-time,Female,England,Upper second,92680,51%
+2017/18,Full-time,Female,Northern Ireland,First,1340,29%
+2017/18,Full-time,Female,Northern Ireland,Lower second,735,16%
+2017/18,Full-time,Female,Northern Ireland,Third/Pass,60,1%
+2017/18,Full-time,Female,Northern Ireland,Total classified,4645,
+2017/18,Full-time,Female,Northern Ireland,Upper second,2510,54%
+2017/18,Full-time,Female,Scotland,First,4260,27%
+2017/18,Full-time,Female,Scotland,Lower second,2290,15%
+2017/18,Full-time,Female,Scotland,Third/Pass,360,2%
+2017/18,Full-time,Female,Scotland,Total classified,15645,
+2017/18,Full-time,Female,Scotland,Upper second,8735,56%
+2017/18,Full-time,Female,Wales,First,3165,28%
+2017/18,Full-time,Female,Wales,Lower second,2125,19%
+2017/18,Full-time,Female,Wales,Third/Pass,360,3%
+2017/18,Full-time,Female,Wales,Total classified,11190,
+2017/18,Full-time,Female,Wales,Upper second,5540,50%
+2017/18,Full-time,Male,All,First,43565,28%
+2017/18,Full-time,Male,All,Lower second,32860,21%
+2017/18,Full-time,Male,All,Third/Pass,7075,4%
+2017/18,Full-time,Male,All,Total classified,158100,
+2017/18,Full-time,Male,All,Upper second,74600,47%
+2017/18,Full-time,Male,England,First,37215,28%
+2017/18,Full-time,Male,England,Lower second,27670,21%
+2017/18,Full-time,Male,England,Third/Pass,6125,5%
+2017/18,Full-time,Male,England,Total classified,133700,
+2017/18,Full-time,Male,England,Upper second,62690,47%
+2017/18,Full-time,Male,Northern Ireland,First,930,27%
+2017/18,Full-time,Male,Northern Ireland,Lower second,715,21%
+2017/18,Full-time,Male,Northern Ireland,Third/Pass,100,3%
+2017/18,Full-time,Male,Northern Ireland,Total classified,3470,
+2017/18,Full-time,Male,Northern Ireland,Upper second,1725,50%
+2017/18,Full-time,Male,Scotland,First,3090,27%
+2017/18,Full-time,Male,Scotland,Lower second,2090,18%
+2017/18,Full-time,Male,Scotland,Third/Pass,400,3%
+2017/18,Full-time,Male,Scotland,Total classified,11520,
+2017/18,Full-time,Male,Scotland,Upper second,5940,52%
+2017/18,Full-time,Male,Wales,First,2330,25%
+2017/18,Full-time,Male,Wales,Lower second,2385,25%
+2017/18,Full-time,Male,Wales,Third/Pass,450,5%
+2017/18,Full-time,Male,Wales,Total classified,9410,
+2017/18,Full-time,Male,Wales,Upper second,4245,45%
+2017/18,Full-time,Other,All,First,60,34%
+2017/18,Full-time,Other,All,Lower second,25,15%
+2017/18,Full-time,Other,All,Third/Pass,5,2%
+2017/18,Full-time,Other,All,Total classified,175,
+2017/18,Full-time,Other,All,Upper second,85,49%
+2017/18,Full-time,Other,England,First,45,34%
+2017/18,Full-time,Other,England,Lower second,20,17%
+2017/18,Full-time,Other,England,Third/Pass,5,3%
+2017/18,Full-time,Other,England,Total classified,125,
+2017/18,Full-time,Other,England,Upper second,55,45%
+2017/18,Full-time,Other,Scotland,First,5,25%
+2017/18,Full-time,Other,Scotland,Lower second,0,7%
+2017/18,Full-time,Other,Scotland,Third/Pass,0,0%
+2017/18,Full-time,Other,Scotland,Total classified,30,
+2017/18,Full-time,Other,Scotland,Upper second,20,68%
+2017/18,Full-time,Other,Wales,First,10,..
+2017/18,Full-time,Other,Wales,Lower second,0,..
+2017/18,Full-time,Other,Wales,Third/Pass,0,..
+2017/18,Full-time,Other,Wales,Total classified,20,
+2017/18,Full-time,Other,Wales,Upper second,10,..
+2017/18,Part-time,All,All,First,4975,20%
+2017/18,Part-time,All,All,Lower second,7105,29%
+2017/18,Part-time,All,All,Third/Pass,4395,18%
+2017/18,Part-time,All,All,Total classified,24745,
+2017/18,Part-time,All,All,Upper second,8275,33%
+2017/18,Part-time,All,England,First,4310,20%
+2017/18,Part-time,All,England,Lower second,6290,29%
+2017/18,Part-time,All,England,Third/Pass,3995,18%
+2017/18,Part-time,All,England,Total classified,21795,
+2017/18,Part-time,All,England,Upper second,7195,33%
+2017/18,Part-time,All,Northern Ireland,First,180,23%
+2017/18,Part-time,All,Northern Ireland,Lower second,210,27%
+2017/18,Part-time,All,Northern Ireland,Third/Pass,75,10%
+2017/18,Part-time,All,Northern Ireland,Total classified,785,
+2017/18,Part-time,All,Northern Ireland,Upper second,315,40%
+2017/18,Part-time,All,Scotland,First,215,18%
+2017/18,Part-time,All,Scotland,Lower second,355,30%
+2017/18,Part-time,All,Scotland,Third/Pass,190,16%
+2017/18,Part-time,All,Scotland,Total classified,1180,
+2017/18,Part-time,All,Scotland,Upper second,420,36%
+2017/18,Part-time,All,Wales,First,265,27%
+2017/18,Part-time,All,Wales,Lower second,250,25%
+2017/18,Part-time,All,Wales,Third/Pass,135,14%
+2017/18,Part-time,All,Wales,Total classified,990,
+2017/18,Part-time,All,Wales,Upper second,340,35%
+2017/18,Part-time,Female,All,First,2540,18%
+2017/18,Part-time,Female,All,Lower second,4125,30%
+2017/18,Part-time,Female,All,Third/Pass,2525,18%
+2017/18,Part-time,Female,All,Total classified,13920,
+2017/18,Part-time,Female,All,Upper second,4725,34%
+2017/18,Part-time,Female,England,First,2210,18%
+2017/18,Part-time,Female,England,Lower second,3660,30%
+2017/18,Part-time,Female,England,Third/Pass,2310,19%
+2017/18,Part-time,Female,England,Total classified,12330,
+2017/18,Part-time,Female,England,Upper second,4155,34%
+2017/18,Part-time,Female,Northern Ireland,First,95,22%
+2017/18,Part-time,Female,Northern Ireland,Lower second,135,30%
+2017/18,Part-time,Female,Northern Ireland,Third/Pass,35,8%
+2017/18,Part-time,Female,Northern Ireland,Total classified,450,
+2017/18,Part-time,Female,Northern Ireland,Upper second,180,40%
+2017/18,Part-time,Female,Scotland,First,110,17%
+2017/18,Part-time,Female,Scotland,Lower second,190,30%
+2017/18,Part-time,Female,Scotland,Third/Pass,110,17%
+2017/18,Part-time,Female,Scotland,Total classified,635,
+2017/18,Part-time,Female,Scotland,Upper second,225,35%
+2017/18,Part-time,Female,Wales,First,125,25%
+2017/18,Part-time,Female,Wales,Lower second,140,28%
+2017/18,Part-time,Female,Wales,Third/Pass,70,14%
+2017/18,Part-time,Female,Wales,Total classified,505,
+2017/18,Part-time,Female,Wales,Upper second,170,34%
+2017/18,Part-time,Male,All,First,2435,22%
+2017/18,Part-time,Male,All,Lower second,2975,28%
+2017/18,Part-time,Male,All,Third/Pass,1865,17%
+2017/18,Part-time,Male,All,Total classified,10825,
+2017/18,Part-time,Male,All,Upper second,3545,33%
+2017/18,Part-time,Male,England,First,2100,22%
+2017/18,Part-time,Male,England,Lower second,2635,28%
+2017/18,Part-time,Male,England,Third/Pass,1680,18%
+2017/18,Part-time,Male,England,Total classified,9460,
+2017/18,Part-time,Male,England,Upper second,3040,32%
+2017/18,Part-time,Male,Northern Ireland,First,85,25%
+2017/18,Part-time,Male,Northern Ireland,Lower second,75,22%
+2017/18,Part-time,Male,Northern Ireland,Third/Pass,40,12%
+2017/18,Part-time,Male,Northern Ireland,Total classified,335,
+2017/18,Part-time,Male,Northern Ireland,Upper second,135,41%
+2017/18,Part-time,Male,Scotland,First,110,20%
+2017/18,Part-time,Male,Scotland,Lower second,165,30%
+2017/18,Part-time,Male,Scotland,Third/Pass,80,14%
+2017/18,Part-time,Male,Scotland,Total classified,545,
+2017/18,Part-time,Male,Scotland,Upper second,195,36%
+2017/18,Part-time,Male,Wales,First,140,29%
+2017/18,Part-time,Male,Wales,Lower second,110,22%
+2017/18,Part-time,Male,Wales,Third/Pass,65,14%
+2017/18,Part-time,Male,Wales,Total classified,485,
+2017/18,Part-time,Male,Wales,Upper second,170,35%
+2017/18,Part-time,Other,All,First,0,..
+2017/18,Part-time,Other,All,Lower second,0,..
+2017/18,Part-time,Other,All,Third/Pass,0,..
+2017/18,Part-time,Other,All,Total classified,5,
+2017/18,Part-time,Other,All,Upper second,0,..
+2017/18,Part-time,Other,England,First,0,..
+2017/18,Part-time,Other,England,Lower second,0,..
+2017/18,Part-time,Other,England,Third/Pass,0,..
+2017/18,Part-time,Other,England,Total classified,5,
+2017/18,Part-time,Other,England,Upper second,0,..
